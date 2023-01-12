@@ -1,0 +1,5174 @@
+{
+    "players": [
+        {
+            "team": "ATL",
+            "name": "Trae Young",
+            "age": 24,
+            "years": 5,
+            "contract": 215159700,
+            "ppg": "27.5",
+            "ast": "10.0",
+            "trb": "3.0"
+        },
+        {
+            "team": "ATL",
+            "name": "John Collins",
+            "age": 25,
+            "years": 4,
+            "contract": 102000000,
+            "ppg": "12.9",
+            "ast": "1.2",
+            "trb": "7.9"
+        },
+        {
+            "team": "ATL",
+            "name": "Clint Capela",
+            "age": 28,
+            "years": 3,
+            "contract": 61588176,
+            "ppg": "12.0",
+            "ast": "0.7",
+            "trb": "11.9"
+        },
+        {
+            "team": "ATL",
+            "name": "Bogdan Bogdanovi\u0107",
+            "age": 30,
+            "years": 2,
+            "contract": 36000000,
+            "ppg": "17.6",
+            "ast": "2.4",
+            "trb": "3.7"
+        },
+        {
+            "team": "ATL",
+            "name": "Dejounte Murray",
+            "age": 26,
+            "years": 2,
+            "contract": 34285120,
+            "ppg": "20.6",
+            "ast": "6.3",
+            "trb": "5.5"
+        },
+        {
+            "team": "ATL",
+            "name": "De'Andre Hunter",
+            "age": 25,
+            "years": 5,
+            "contract": 99835881,
+            "ppg": "15.0",
+            "ast": "1.2",
+            "trb": "4.1"
+        },
+        {
+            "team": "ATL",
+            "name": "Onyeka Okongwu",
+            "age": 22,
+            "years": 2,
+            "contract": 14504223,
+            "ppg": "9.3",
+            "ast": "0.9",
+            "trb": "7.2"
+        },
+        {
+            "team": "ATL",
+            "name": "Justin Holiday",
+            "age": 33,
+            "years": 1,
+            "contract": 6292440,
+            "ppg": "4.5",
+            "ast": "0.9",
+            "trb": "0.9"
+        },
+        {
+            "team": "ATL",
+            "name": "AJ Griffin",
+            "age": 19,
+            "years": 4,
+            "contract": 17106137,
+            "ppg": "10.3",
+            "ast": "1.0",
+            "trb": "2.3"
+        },
+        {
+            "team": "ATL",
+            "name": "Jalen Johnson",
+            "age": 21,
+            "years": 3,
+            "contract": 10228905,
+            "ppg": "5.1",
+            "ast": "1.0",
+            "trb": "3.7"
+        },
+        {
+            "team": "ATL",
+            "name": "Aaron Holiday",
+            "age": 26,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "5.0",
+            "ast": "1.6",
+            "trb": "1.5"
+        },
+        {
+            "team": "ATL",
+            "name": "Frank Kaminsky",
+            "age": 29,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "2.9",
+            "ast": "0.9",
+            "trb": "1.5"
+        },
+        {
+            "team": "ATL",
+            "name": "Vit Krejci",
+            "age": 22,
+            "years": 3,
+            "contract": 5388212,
+            "ppg": "1.6",
+            "ast": "0.6",
+            "trb": "0.7"
+        },
+        {
+            "team": "ATL",
+            "name": "Tyrese Martin",
+            "age": 23,
+            "years": 2,
+            "contract": 2737645,
+            "ppg": "1.4",
+            "ast": "0.0",
+            "trb": "0.5"
+        },
+        {
+            "team": "ATL",
+            "name": "Jarrett Culver",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "4.4",
+            "ast": "0.6",
+            "trb": "3.8"
+        },
+        {
+            "team": "ATL",
+            "name": "Trent Forrest",
+            "age": 24,
+            "years": 0,
+            "contract": 0,
+            "ppg": "3.1",
+            "ast": "1.9",
+            "trb": "1.7"
+        },
+        {
+            "team": "BOS",
+            "name": "Jayson Tatum",
+            "age": 24,
+            "years": 4,
+            "contract": 134896800,
+            "ppg": "30.9",
+            "ast": "4.1",
+            "trb": "8.1"
+        },
+        {
+            "team": "BOS",
+            "name": "Jaylen Brown",
+            "age": 26,
+            "years": 2,
+            "contract": 59464286,
+            "ppg": "27.1",
+            "ast": "3.4",
+            "trb": "7.3"
+        },
+        {
+            "team": "BOS",
+            "name": "Al Horford",
+            "age": 36,
+            "years": 3,
+            "contract": 46000000,
+            "ppg": "9.7",
+            "ast": "2.6",
+            "trb": "6.3"
+        },
+        {
+            "team": "BOS",
+            "name": "Malcolm Brogdon",
+            "age": 30,
+            "years": 3,
+            "contract": 67600000,
+            "ppg": "13.0",
+            "ast": "3.8",
+            "trb": "4.0"
+        },
+        {
+            "team": "BOS",
+            "name": "Marcus Smart",
+            "age": 28,
+            "years": 4,
+            "contract": 77087994,
+            "ppg": "11.2",
+            "ast": "7.4",
+            "trb": "3.3"
+        },
+        {
+            "team": "BOS",
+            "name": "Derrick White",
+            "age": 28,
+            "years": 3,
+            "contract": 54321429,
+            "ppg": "10.1",
+            "ast": "3.1",
+            "trb": "3.0"
+        },
+        {
+            "team": "BOS",
+            "name": "Robert Williams",
+            "age": 25,
+            "years": 4,
+            "contract": 49000002,
+            "ppg": "8.3",
+            "ast": "1.1",
+            "trb": "7.3"
+        },
+        {
+            "team": "BOS",
+            "name": "Danilo Gallinari",
+            "age": 34,
+            "years": 2,
+            "contract": 13281950,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "BOS",
+            "name": "Grant Williams",
+            "age": 24,
+            "years": 1,
+            "contract": 4306281,
+            "ppg": "9.0",
+            "ast": "1.6",
+            "trb": "4.7"
+        },
+        {
+            "team": "BOS",
+            "name": "Payton Pritchard",
+            "age": 24,
+            "years": 2,
+            "contract": 6276477,
+            "ppg": "4.0",
+            "ast": "1.1",
+            "trb": "1.2"
+        },
+        {
+            "team": "BOS",
+            "name": "Luke Kornet",
+            "age": 27,
+            "years": 2,
+            "contract": 4546582,
+            "ppg": "3.9",
+            "ast": "0.7",
+            "trb": "3.3"
+        },
+        {
+            "team": "BOS",
+            "name": "Justin Jackson",
+            "age": 27,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "0.6",
+            "ast": "0.4",
+            "trb": "0.5"
+        },
+        {
+            "team": "BOS",
+            "name": "Blake Griffin",
+            "age": 33,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "5.4",
+            "ast": "1.2",
+            "trb": "3.9"
+        },
+        {
+            "team": "BOS",
+            "name": "Noah Vonleh",
+            "age": 27,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "1.1",
+            "ast": "0.3",
+            "trb": "2.1"
+        },
+        {
+            "team": "BOS",
+            "name": "Sam Hauser",
+            "age": 25,
+            "years": 3,
+            "contract": 5658206,
+            "ppg": "6.1",
+            "ast": "0.7",
+            "trb": "2.5"
+        },
+        {
+            "team": "BOS",
+            "name": "Mfiondu Kabengele",
+            "age": 25,
+            "years": 0,
+            "contract": 0,
+            "ppg": "2.0",
+            "ast": "0.0",
+            "trb": "4.0"
+        },
+        {
+            "team": "BOS",
+            "name": "JD Davison",
+            "age": 20,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.7",
+            "ast": "0.3",
+            "trb": "0.3"
+        },
+        {
+            "team": "BOS",
+            "name": "Reginald Kissoonlal",
+            "age": 26,
+            "years": 0,
+            "contract": 0,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "BRK",
+            "name": "Kevin Durant",
+            "age": 34,
+            "years": 4,
+            "contract": 197656908,
+            "ppg": "29.6",
+            "ast": "5.5",
+            "trb": "6.8"
+        },
+        {
+            "team": "BRK",
+            "name": "Kyrie Irving",
+            "age": 30,
+            "years": 1,
+            "contract": 36934550,
+            "ppg": "26.2",
+            "ast": "4.5",
+            "trb": "5.1"
+        },
+        {
+            "team": "BRK",
+            "name": "Ben Simmons",
+            "age": 26,
+            "years": 3,
+            "contract": 113680224,
+            "ppg": "7.9",
+            "ast": "6.0",
+            "trb": "6.6"
+        },
+        {
+            "team": "BRK",
+            "name": "Joe Harris",
+            "age": 31,
+            "years": 2,
+            "contract": 38571428,
+            "ppg": "8.5",
+            "ast": "1.6",
+            "trb": "2.8"
+        },
+        {
+            "team": "BRK",
+            "name": "Royce O'Neale",
+            "age": 29,
+            "years": 2,
+            "contract": 18700000,
+            "ppg": "9.5",
+            "ast": "4.2",
+            "trb": "4.9"
+        },
+        {
+            "team": "BRK",
+            "name": "Nic Claxton",
+            "age": 23,
+            "years": 2,
+            "contract": 17250000,
+            "ppg": "11.9",
+            "ast": "1.4",
+            "trb": "8.3"
+        },
+        {
+            "team": "BRK",
+            "name": "Seth Curry",
+            "age": 32,
+            "years": 1,
+            "contract": 8496653,
+            "ppg": "8.6",
+            "ast": "2.2",
+            "trb": "2.1"
+        },
+        {
+            "team": "BRK",
+            "name": "Patty Mills",
+            "age": 34,
+            "years": 2,
+            "contract": 13281950,
+            "ppg": "5.7",
+            "ast": "1.3",
+            "trb": "1.0"
+        },
+        {
+            "team": "BRK",
+            "name": "Cam Thomas",
+            "age": 21,
+            "years": 3,
+            "contract": 8419569,
+            "ppg": "6.4",
+            "ast": "1.4",
+            "trb": "1.3"
+        },
+        {
+            "team": "BRK",
+            "name": "Day'Ron Sharpe",
+            "age": 21,
+            "years": 3,
+            "contract": 8308642,
+            "ppg": "3.9",
+            "ast": "0.7",
+            "trb": "3.2"
+        },
+        {
+            "team": "BRK",
+            "name": "Edmond Sumner",
+            "age": 27,
+            "years": 2,
+            "contract": 4208118,
+            "ppg": "7.0",
+            "ast": "1.5",
+            "trb": "1.5"
+        },
+        {
+            "team": "BRK",
+            "name": "Markieff Morris",
+            "age": 33,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "4.2",
+            "ast": "1.0",
+            "trb": "2.3"
+        },
+        {
+            "team": "BRK",
+            "name": "Yuta Watanabe",
+            "age": 28,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "8.0",
+            "ast": "0.9",
+            "trb": "3.0"
+        },
+        {
+            "team": "BRK",
+            "name": "T.J. Warren",
+            "age": 29,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "10.2",
+            "ast": "1.5",
+            "trb": "3.4"
+        },
+        {
+            "team": "BRK",
+            "name": "Kessler Edwards",
+            "age": 22,
+            "years": 2,
+            "contract": 3565862,
+            "ppg": "1.2",
+            "ast": "0.2",
+            "trb": "1.1"
+        },
+        {
+            "team": "BRK",
+            "name": "David Duke Jr.",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "3.0",
+            "ast": "0.9",
+            "trb": "1.1"
+        },
+        {
+            "team": "BRK",
+            "name": "Alondes Williams",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.0",
+            "ast": "0.0",
+            "trb": "1.0"
+        },
+        {
+            "team": "CHI",
+            "name": "Zach LaVine",
+            "age": 27,
+            "years": 5,
+            "contract": 215159700,
+            "ppg": "22.7",
+            "ast": "4.3",
+            "trb": "4.3"
+        },
+        {
+            "team": "CHI",
+            "name": "DeMar DeRozan",
+            "age": 33,
+            "years": 2,
+            "contract": 55900000,
+            "ppg": "26.7",
+            "ast": "4.9",
+            "trb": "5.1"
+        },
+        {
+            "team": "CHI",
+            "name": "Nikola Vu\u010devi\u0107",
+            "age": 32,
+            "years": 1,
+            "contract": 22000000,
+            "ppg": "16.7",
+            "ast": "2.9",
+            "trb": "10.5"
+        },
+        {
+            "team": "CHI",
+            "name": "Lonzo Ball",
+            "age": 25,
+            "years": 3,
+            "contract": 61395349,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "CHI",
+            "name": "Alex Caruso",
+            "age": 28,
+            "years": 3,
+            "contract": 28380000,
+            "ppg": "5.3",
+            "ast": "3.5",
+            "trb": "2.8"
+        },
+        {
+            "team": "CHI",
+            "name": "Patrick Williams",
+            "age": 21,
+            "years": 2,
+            "contract": 17611281,
+            "ppg": "9.5",
+            "ast": "1.3",
+            "trb": "4.0"
+        },
+        {
+            "team": "CHI",
+            "name": "Coby White",
+            "age": 22,
+            "years": 1,
+            "contract": 7413955,
+            "ppg": "7.8",
+            "ast": "1.8",
+            "trb": "2.3"
+        },
+        {
+            "team": "CHI",
+            "name": "Andre Drummond",
+            "age": 29,
+            "years": 2,
+            "contract": 6560000,
+            "ppg": "6.2",
+            "ast": "0.7",
+            "trb": "7.0"
+        },
+        {
+            "team": "CHI",
+            "name": "Derrick Jones Jr.",
+            "age": 25,
+            "years": 2,
+            "contract": 6560000,
+            "ppg": "5.5",
+            "ast": "0.6",
+            "trb": "2.5"
+        },
+        {
+            "team": "CHI",
+            "name": "Dalen Terry",
+            "age": 20,
+            "years": 4,
+            "contract": 15451758,
+            "ppg": "0.9",
+            "ast": "0.5",
+            "trb": "0.3"
+        },
+        {
+            "team": "CHI",
+            "name": "Tony Bradley",
+            "age": 24,
+            "years": 1,
+            "contract": 2036318,
+            "ppg": "1.3",
+            "ast": "0.1",
+            "trb": "1.1"
+        },
+        {
+            "team": "CHI",
+            "name": "Goran Dragi\u0107",
+            "age": 36,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "7.8",
+            "ast": "2.8",
+            "trb": "1.5"
+        },
+        {
+            "team": "CHI",
+            "name": "Javonte Green",
+            "age": 29,
+            "years": 1,
+            "contract": 1815677,
+            "ppg": "5.9",
+            "ast": "0.8",
+            "trb": "2.9"
+        },
+        {
+            "team": "CHI",
+            "name": "Ayo Dosunmu",
+            "age": 22,
+            "years": 1,
+            "contract": 1563518,
+            "ppg": "9.7",
+            "ast": "2.7",
+            "trb": "3.2"
+        },
+        {
+            "team": "CHI",
+            "name": "Marko Simonovic",
+            "age": 23,
+            "years": 2,
+            "contract": 3399614,
+            "ppg": "0.0",
+            "ast": "0.0",
+            "trb": "0.0"
+        },
+        {
+            "team": "CHI",
+            "name": "Malcolm Hill",
+            "age": 27,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.0",
+            "ast": "0.0",
+            "trb": "0.3"
+        },
+        {
+            "team": "CHO",
+            "name": "Gordon Hayward",
+            "age": 32,
+            "years": 2,
+            "contract": 61575000,
+            "ppg": "13.7",
+            "ast": "3.9",
+            "trb": "4.7"
+        },
+        {
+            "team": "CHO",
+            "name": "Terry Rozier",
+            "age": 28,
+            "years": 4,
+            "contract": 96258694,
+            "ppg": "20.0",
+            "ast": "5.4",
+            "trb": "4.3"
+        },
+        {
+            "team": "CHO",
+            "name": "Kelly Oubre Jr.",
+            "age": 27,
+            "years": 1,
+            "contract": 12600000,
+            "ppg": "20.2",
+            "ast": "1.2",
+            "trb": "5.1"
+        },
+        {
+            "team": "CHO",
+            "name": "Mason Plumlee",
+            "age": 32,
+            "years": 1,
+            "contract": 9080417,
+            "ppg": "10.7",
+            "ast": "3.7",
+            "trb": "9.3"
+        },
+        {
+            "team": "CHO",
+            "name": "LaMelo Ball",
+            "age": 21,
+            "years": 2,
+            "contract": 19524555,
+            "ppg": "23.7",
+            "ast": "7.8",
+            "trb": "6.0"
+        },
+        {
+            "team": "CHO",
+            "name": "Cody Martin",
+            "age": 27,
+            "years": 4,
+            "contract": 31360000,
+            "ppg": "0.0",
+            "ast": "0.0",
+            "trb": "0.0"
+        },
+        {
+            "team": "CHO",
+            "name": "P.J. Washington",
+            "age": 24,
+            "years": 1,
+            "contract": 5808435,
+            "ppg": "14.9",
+            "ast": "2.3",
+            "trb": "4.8"
+        },
+        {
+            "team": "CHO",
+            "name": "James Bouknight",
+            "age": 22,
+            "years": 3,
+            "contract": 14996816,
+            "ppg": "4.6",
+            "ast": "1.2",
+            "trb": "2.0"
+        },
+        {
+            "team": "CHO",
+            "name": "Mark Williams",
+            "age": 21,
+            "years": 4,
+            "contract": 18001011,
+            "ppg": "7.0",
+            "ast": "0.5",
+            "trb": "5.6"
+        },
+        {
+            "team": "CHO",
+            "name": "Kai Jones",
+            "age": 21,
+            "years": 3,
+            "contract": 10650655,
+            "ppg": "2.8",
+            "ast": "0.2",
+            "trb": "2.1"
+        },
+        {
+            "team": "CHO",
+            "name": "Jalen McDaniels",
+            "age": 24,
+            "years": 1,
+            "contract": 1930681,
+            "ppg": "10.6",
+            "ast": "2.2",
+            "trb": "4.7"
+        },
+        {
+            "team": "CHO",
+            "name": "Dennis Smith Jr.",
+            "age": 25,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "9.3",
+            "ast": "5.4",
+            "trb": "3.3"
+        },
+        {
+            "team": "CHO",
+            "name": "Nick Richards",
+            "age": 25,
+            "years": 1,
+            "contract": 1782621,
+            "ppg": "8.8",
+            "ast": "0.6",
+            "trb": "6.2"
+        },
+        {
+            "team": "CHO",
+            "name": "JT Thor",
+            "age": 20,
+            "years": 3,
+            "contract": 5388212,
+            "ppg": "2.4",
+            "ast": "0.5",
+            "trb": "1.6"
+        },
+        {
+            "team": "CHO",
+            "name": "Bryce McGowens",
+            "age": 20,
+            "years": 0,
+            "contract": 0,
+            "ppg": "4.1",
+            "ast": "1.0",
+            "trb": "1.4"
+        },
+        {
+            "team": "HOU",
+            "name": "Th\u00e9o Maledon",
+            "age": 21,
+            "years": 1,
+            "contract": 1900000,
+            "ppg": "5.5",
+            "ast": "2.5",
+            "trb": "2.4"
+        },
+        {
+            "team": "CLE",
+            "name": "Donovan Mitchell",
+            "age": 26,
+            "years": 4,
+            "contract": 134896800,
+            "ppg": "29.3",
+            "ast": "4.8",
+            "trb": "3.9"
+        },
+        {
+            "team": "CLE",
+            "name": "Kevin Love",
+            "age": 34,
+            "years": 1,
+            "contract": 28942830,
+            "ppg": "9.6",
+            "ast": "2.1",
+            "trb": "7.3"
+        },
+        {
+            "team": "CLE",
+            "name": "Jarrett Allen",
+            "age": 24,
+            "years": 4,
+            "contract": 80000000,
+            "ppg": "14.0",
+            "ast": "1.5",
+            "trb": "10.2"
+        },
+        {
+            "team": "CLE",
+            "name": "Caris LeVert",
+            "age": 28,
+            "years": 1,
+            "contract": 18796296,
+            "ppg": "12.1",
+            "ast": "3.7",
+            "trb": "4.2"
+        },
+        {
+            "team": "CLE",
+            "name": "Darius Garland",
+            "age": 22,
+            "years": 6,
+            "contract": 201770795,
+            "ppg": "21.3",
+            "ast": "7.8",
+            "trb": "2.6"
+        },
+        {
+            "team": "CLE",
+            "name": "Evan Mobley",
+            "age": 21,
+            "years": 3,
+            "contract": 28589017,
+            "ppg": "14.6",
+            "ast": "2.8",
+            "trb": "8.9"
+        },
+        {
+            "team": "CLE",
+            "name": "Cedi Osman",
+            "age": 27,
+            "years": 2,
+            "contract": 14144930,
+            "ppg": "9.8",
+            "ast": "1.6",
+            "trb": "2.7"
+        },
+        {
+            "team": "CLE",
+            "name": "Isaac Okoro",
+            "age": 21,
+            "years": 2,
+            "contract": 15961675,
+            "ppg": "5.0",
+            "ast": "0.8",
+            "trb": "2.3"
+        },
+        {
+            "team": "CLE",
+            "name": "Ricky Rubio",
+            "age": 32,
+            "years": 3,
+            "contract": 18439026,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "CLE",
+            "name": "Dylan Windler",
+            "age": 26,
+            "years": 1,
+            "contract": 4037278,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "CLE",
+            "name": "Dean Wade",
+            "age": 26,
+            "years": 4,
+            "contract": 20430681,
+            "ppg": "6.4",
+            "ast": "1.0",
+            "trb": "4.1"
+        },
+        {
+            "team": "CLE",
+            "name": "Robin Lopez",
+            "age": 34,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "3.1",
+            "ast": "0.4",
+            "trb": "1.5"
+        },
+        {
+            "team": "CLE",
+            "name": "Raul Neto",
+            "age": 30,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "2.7",
+            "ast": "1.3",
+            "trb": "0.8"
+        },
+        {
+            "team": "CLE",
+            "name": "Lamar Stevens",
+            "age": 25,
+            "years": 2,
+            "contract": 3713302,
+            "ppg": "6.5",
+            "ast": "0.7",
+            "trb": "3.9"
+        },
+        {
+            "team": "CLE",
+            "name": "Mamadi Diakite",
+            "age": 25,
+            "years": 0,
+            "contract": 0,
+            "ppg": "2.0",
+            "ast": "0.2",
+            "trb": "0.9"
+        },
+        {
+            "team": "CLE",
+            "name": "Isaiah Mobley",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "1.1",
+            "ast": "0.0",
+            "trb": "1.4"
+        },
+        {
+            "team": "DAL",
+            "name": "Luka Don\u010di\u0107",
+            "age": 23,
+            "years": 5,
+            "contract": 215159700,
+            "ppg": "34.3",
+            "ast": "8.9",
+            "trb": "8.8"
+        },
+        {
+            "team": "DAL",
+            "name": "Spencer Dinwiddie",
+            "age": 29,
+            "years": 2,
+            "contract": 41199997,
+            "ppg": "16.1",
+            "ast": "5.1",
+            "trb": "3.2"
+        },
+        {
+            "team": "DAL",
+            "name": "Tim Hardaway Jr.",
+            "age": 30,
+            "years": 3,
+            "contract": 53693184,
+            "ppg": "13.8",
+            "ast": "1.6",
+            "trb": "3.1"
+        },
+        {
+            "team": "DAL",
+            "name": "D\u0101vis Bert\u0101ns",
+            "age": 30,
+            "years": 3,
+            "contract": 49000000,
+            "ppg": "4.4",
+            "ast": "0.2",
+            "trb": "0.9"
+        },
+        {
+            "team": "DAL",
+            "name": "Christian Wood",
+            "age": 27,
+            "years": 1,
+            "contract": 14317459,
+            "ppg": "17.8",
+            "ast": "1.6",
+            "trb": "7.9"
+        },
+        {
+            "team": "DAL",
+            "name": "Dorian Finney-Smith",
+            "age": 29,
+            "years": 4,
+            "contract": 55560960,
+            "ppg": "8.4",
+            "ast": "1.2",
+            "trb": "4.0"
+        },
+        {
+            "team": "DAL",
+            "name": "Dwight Powell",
+            "age": 31,
+            "years": 1,
+            "contract": 11080125,
+            "ppg": "5.9",
+            "ast": "0.6",
+            "trb": "3.6"
+        },
+        {
+            "team": "DAL",
+            "name": "Reggie Bullock",
+            "age": 31,
+            "years": 2,
+            "contract": 20502400,
+            "ppg": "5.4",
+            "ast": "1.1",
+            "trb": "3.4"
+        },
+        {
+            "team": "DAL",
+            "name": "Maxi Kleber",
+            "age": 30,
+            "years": 4,
+            "contract": 42000000,
+            "ppg": "6.2",
+            "ast": "1.0",
+            "trb": "3.5"
+        },
+        {
+            "team": "DAL",
+            "name": "JaVale McGee",
+            "age": 34,
+            "years": 3,
+            "contract": 17202840,
+            "ppg": "4.3",
+            "ast": "0.2",
+            "trb": "2.3"
+        },
+        {
+            "team": "DAL",
+            "name": "Josh Green",
+            "age": 22,
+            "years": 2,
+            "contract": 7863739,
+            "ppg": "7.0",
+            "ast": "1.2",
+            "trb": "2.3"
+        },
+        {
+            "team": "DAL",
+            "name": "Frank Ntilikina",
+            "age": 24,
+            "years": 1,
+            "contract": 2036318,
+            "ppg": "2.8",
+            "ast": "1.3",
+            "trb": "1.7"
+        },
+        {
+            "team": "DAL",
+            "name": "Theo Pinson",
+            "age": 27,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "1.1",
+            "ast": "0.3",
+            "trb": "1.3"
+        },
+        {
+            "team": "DAL",
+            "name": "Kemba Walker",
+            "age": 32,
+            "years": 1,
+            "contract": 1392896,
+            "ppg": "8.8",
+            "ast": "2.4",
+            "trb": "2.0"
+        },
+        {
+            "team": "DAL",
+            "name": "Jaden Hardy",
+            "age": 20,
+            "years": 3,
+            "contract": 4757344,
+            "ppg": "3.7",
+            "ast": "0.3",
+            "trb": "1.0"
+        },
+        {
+            "team": "DAL",
+            "name": "McKinley Wright IV",
+            "age": 24,
+            "years": 0,
+            "contract": 0,
+            "ppg": "1.8",
+            "ast": "1.3",
+            "trb": "1.1"
+        },
+        {
+            "team": "DAL",
+            "name": "A.J. Lawson",
+            "age": 22,
+            "years": 0,
+            "contract": 0,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "DEN",
+            "name": "Nikola Joki\u0107",
+            "age": 27,
+            "years": 6,
+            "contract": 303037803,
+            "ppg": "25.6",
+            "ast": "9.5",
+            "trb": "10.8"
+        },
+        {
+            "team": "DEN",
+            "name": "Jamal Murray",
+            "age": 25,
+            "years": 3,
+            "contract": 101500200,
+            "ppg": "18.0",
+            "ast": "5.6",
+            "trb": "3.8"
+        },
+        {
+            "team": "DEN",
+            "name": "Michael Porter Jr.",
+            "age": 24,
+            "years": 5,
+            "contract": 179299750,
+            "ppg": "16.7",
+            "ast": "1.3",
+            "trb": "5.8"
+        },
+        {
+            "team": "DEN",
+            "name": "Aaron Gordon",
+            "age": 27,
+            "years": 4,
+            "contract": 86640001,
+            "ppg": "17.1",
+            "ast": "2.4",
+            "trb": "6.9"
+        },
+        {
+            "team": "DEN",
+            "name": "Kentavious Caldwell-Pope",
+            "age": 29,
+            "years": 3,
+            "contract": 44149826,
+            "ppg": "11.4",
+            "ast": "2.2",
+            "trb": "3.1"
+        },
+        {
+            "team": "DEN",
+            "name": "Bruce Brown",
+            "age": 26,
+            "years": 2,
+            "contract": 13281950,
+            "ppg": "11.1",
+            "ast": "3.9",
+            "trb": "4.1"
+        },
+        {
+            "team": "DEN",
+            "name": "Ish Smith",
+            "age": 34,
+            "years": 1,
+            "contract": 4725000,
+            "ppg": "2.7",
+            "ast": "1.9",
+            "trb": "0.9"
+        },
+        {
+            "team": "DEN",
+            "name": "Jeff Green",
+            "age": 36,
+            "years": 1,
+            "contract": 4500000,
+            "ppg": "7.5",
+            "ast": "1.1",
+            "trb": "2.8"
+        },
+        {
+            "team": "DEN",
+            "name": "Christian Braun",
+            "age": 21,
+            "years": 4,
+            "contract": 13769157,
+            "ppg": "3.5",
+            "ast": "0.5",
+            "trb": "2.0"
+        },
+        {
+            "team": "DEN",
+            "name": "Zeke Nnaji",
+            "age": 21,
+            "years": 2,
+            "contract": 6924081,
+            "ppg": "3.9",
+            "ast": "0.2",
+            "trb": "1.6"
+        },
+        {
+            "team": "DEN",
+            "name": "Vlatko \u010can\u010dar",
+            "age": 25,
+            "years": 3,
+            "contract": 6815324,
+            "ppg": "4.9",
+            "ast": "1.1",
+            "trb": "1.6"
+        },
+        {
+            "team": "DEN",
+            "name": "Bones Hyland",
+            "age": 22,
+            "years": 3,
+            "contract": 8666359,
+            "ppg": "13.4",
+            "ast": "3.4",
+            "trb": "2.3"
+        },
+        {
+            "team": "DEN",
+            "name": "Peyton Watson",
+            "age": 20,
+            "years": 4,
+            "contract": 11267516,
+            "ppg": "1.0",
+            "ast": "0.0",
+            "trb": "0.5"
+        },
+        {
+            "team": "DEN",
+            "name": "Davon Reed",
+            "age": 27,
+            "years": 2,
+            "contract": 3968718,
+            "ppg": "2.5",
+            "ast": "0.6",
+            "trb": "1.5"
+        },
+        {
+            "team": "DET",
+            "name": "DeAndre Jordan",
+            "age": 34,
+            "years": 1,
+            "contract": 7827907,
+            "ppg": "4.7",
+            "ast": "0.8",
+            "trb": "5.2"
+        },
+        {
+            "team": "DEN",
+            "name": "Collin Gillespie",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "DEN",
+            "name": "Jack White",
+            "age": 25,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.2",
+            "ast": "0.0",
+            "trb": "0.6"
+        },
+        {
+            "team": "DET",
+            "name": "Bojan Bogdanovi\u0107",
+            "age": 33,
+            "years": 3,
+            "contract": 58582850,
+            "ppg": "20.8",
+            "ast": "2.6",
+            "trb": "3.6"
+        },
+        {
+            "team": "DET",
+            "name": "Marvin Bagley III",
+            "age": 23,
+            "years": 3,
+            "contract": 37500000,
+            "ppg": "10.6",
+            "ast": "0.6",
+            "trb": "5.9"
+        },
+        {
+            "team": "DET",
+            "name": "Cade Cunningham",
+            "age": 21,
+            "years": 3,
+            "contract": 35548969,
+            "ppg": "19.9",
+            "ast": "6.0",
+            "trb": "6.2"
+        },
+        {
+            "team": "DET",
+            "name": "Alec Burks",
+            "age": 31,
+            "years": 2,
+            "contract": 20502400,
+            "ppg": "14.2",
+            "ast": "2.1",
+            "trb": "2.9"
+        },
+        {
+            "team": "DET",
+            "name": "Nerlens Noel",
+            "age": 28,
+            "years": 2,
+            "contract": 18920000,
+            "ppg": "1.5",
+            "ast": "0.4",
+            "trb": "2.4"
+        },
+        {
+            "team": "DET",
+            "name": "Jaden Ivey",
+            "age": 20,
+            "years": 4,
+            "contract": 32951083,
+            "ppg": "15.0",
+            "ast": "4.0",
+            "trb": "4.0"
+        },
+        {
+            "team": "DET",
+            "name": "Killian Hayes",
+            "age": 21,
+            "years": 2,
+            "contract": 13251715,
+            "ppg": "9.1",
+            "ast": "5.3",
+            "trb": "2.9"
+        },
+        {
+            "team": "DET",
+            "name": "Hamidou Diallo",
+            "age": 24,
+            "years": 1,
+            "contract": 5200000,
+            "ppg": "7.0",
+            "ast": "1.0",
+            "trb": "3.1"
+        },
+        {
+            "team": "DET",
+            "name": "Cory Joseph",
+            "age": 31,
+            "years": 1,
+            "contract": 5155500,
+            "ppg": "4.5",
+            "ast": "3.1",
+            "trb": "1.3"
+        },
+        {
+            "team": "DET",
+            "name": "Jalen Duren",
+            "age": 19,
+            "years": 4,
+            "contract": 19474944,
+            "ppg": "7.3",
+            "ast": "1.0",
+            "trb": "8.4"
+        },
+        {
+            "team": "DET",
+            "name": "Isaiah Stewart",
+            "age": 21,
+            "years": 2,
+            "contract": 8700033,
+            "ppg": "11.6",
+            "ast": "1.2",
+            "trb": "7.8"
+        },
+        {
+            "team": "DET",
+            "name": "Kevin Knox",
+            "age": 23,
+            "years": 2,
+            "contract": 6000000,
+            "ppg": "5.6",
+            "ast": "0.4",
+            "trb": "2.4"
+        },
+        {
+            "team": "DET",
+            "name": "Saddiq Bey",
+            "age": 23,
+            "years": 2,
+            "contract": 7516063,
+            "ppg": "13.8",
+            "ast": "1.5",
+            "trb": "4.2"
+        },
+        {
+            "team": "DET",
+            "name": "Rodney McGruder",
+            "age": 31,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "2.9",
+            "ast": "0.8",
+            "trb": "1.8"
+        },
+        {
+            "team": "DET",
+            "name": "Isaiah Livers",
+            "age": 24,
+            "years": 2,
+            "contract": 3399614,
+            "ppg": "5.8",
+            "ast": "0.6",
+            "trb": "2.3"
+        },
+        {
+            "team": "DET",
+            "name": "Jared Rhoden",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "DET",
+            "name": "Buddy Boeheim",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.0",
+            "ast": "0.0",
+            "trb": "0.0"
+        },
+        {
+            "team": "MIA",
+            "name": "Dewayne Dedmon",
+            "age": 33,
+            "years": 2,
+            "contract": 9024000,
+            "ppg": "6.3",
+            "ast": "0.6",
+            "trb": "3.7"
+        },
+        {
+            "team": "GSW",
+            "name": "Stephen Curry",
+            "age": 34,
+            "years": 4,
+            "contract": 215353662,
+            "ppg": "30.0",
+            "ast": "6.8",
+            "trb": "6.6"
+        },
+        {
+            "team": "GSW",
+            "name": "Klay Thompson",
+            "age": 32,
+            "years": 2,
+            "contract": 83819520,
+            "ppg": "20.3",
+            "ast": "2.5",
+            "trb": "4.0"
+        },
+        {
+            "team": "GSW",
+            "name": "Andrew Wiggins",
+            "age": 27,
+            "years": 5,
+            "contract": 142616772,
+            "ppg": "19.1",
+            "ast": "2.2",
+            "trb": "5.1"
+        },
+        {
+            "team": "GSW",
+            "name": "Draymond Green",
+            "age": 32,
+            "years": 2,
+            "contract": 53392692,
+            "ppg": "7.9",
+            "ast": "6.7",
+            "trb": "6.8"
+        },
+        {
+            "team": "GSW",
+            "name": "James Wiseman",
+            "age": 21,
+            "years": 2,
+            "contract": 21722800,
+            "ppg": "6.8",
+            "ast": "0.7",
+            "trb": "3.6"
+        },
+        {
+            "team": "GSW",
+            "name": "Kevon Looney",
+            "age": 26,
+            "years": 3,
+            "contract": 25500000,
+            "ppg": "6.7",
+            "ast": "2.9",
+            "trb": "8.2"
+        },
+        {
+            "team": "GSW",
+            "name": "Jonathan Kuminga",
+            "age": 20,
+            "years": 3,
+            "contract": 19388987,
+            "ppg": "7.5",
+            "ast": "1.7",
+            "trb": "3.2"
+        },
+        {
+            "team": "GSW",
+            "name": "Donte DiVincenzo",
+            "age": 25,
+            "years": 2,
+            "contract": 9225000,
+            "ppg": "7.3",
+            "ast": "3.0",
+            "trb": "4.6"
+        },
+        {
+            "team": "GSW",
+            "name": "Jordan Poole",
+            "age": 23,
+            "years": 5,
+            "contract": 131901399,
+            "ppg": "20.5",
+            "ast": "4.3",
+            "trb": "2.3"
+        },
+        {
+            "team": "GSW",
+            "name": "Moses Moody",
+            "age": 20,
+            "years": 3,
+            "contract": 13461909,
+            "ppg": "5.3",
+            "ast": "0.8",
+            "trb": "1.7"
+        },
+        {
+            "team": "GSW",
+            "name": "Patrick Baldwin Jr.",
+            "age": 20,
+            "years": 4,
+            "contract": 11432716,
+            "ppg": "5.1",
+            "ast": "0.2",
+            "trb": "1.5"
+        },
+        {
+            "team": "GSW",
+            "name": "Andre Iguodala",
+            "age": 38,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "GSW",
+            "name": "JaMychal Green",
+            "age": 32,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "5.8",
+            "ast": "0.8",
+            "trb": "4.0"
+        },
+        {
+            "team": "GSW",
+            "name": "Ryan Rollins",
+            "age": 20,
+            "years": 3,
+            "contract": 4757344,
+            "ppg": "1.9",
+            "ast": "0.5",
+            "trb": "0.9"
+        },
+        {
+            "team": "HOU",
+            "name": "Ty Jerome",
+            "age": 25,
+            "years": 1,
+            "contract": 4220057,
+            "ppg": "7.0",
+            "ast": "2.4",
+            "trb": "1.7"
+        },
+        {
+            "team": "GSW",
+            "name": "Anthony Lamb",
+            "age": 24,
+            "years": 0,
+            "contract": 0,
+            "ppg": "6.3",
+            "ast": "1.6",
+            "trb": "3.2"
+        },
+        {
+            "team": "HOU",
+            "name": "Eric Gordon",
+            "age": 34,
+            "years": 2,
+            "contract": 40486262,
+            "ppg": "11.5",
+            "ast": "2.4",
+            "trb": "2.0"
+        },
+        {
+            "team": "HOU",
+            "name": "Jalen Green",
+            "age": 20,
+            "years": 3,
+            "contract": 31816368,
+            "ppg": "21.4",
+            "ast": "3.6",
+            "trb": "4.4"
+        },
+        {
+            "team": "HOU",
+            "name": "Jabari Smith Jr.",
+            "age": 19,
+            "years": 4,
+            "contract": 40330432,
+            "ppg": "12.1",
+            "ast": "0.9",
+            "trb": "6.9"
+        },
+        {
+            "team": "HOU",
+            "name": "Jae'Sean Tate",
+            "age": 27,
+            "years": 3,
+            "contract": 20630434,
+            "ppg": "8.3",
+            "ast": "3.3",
+            "trb": "4.3"
+        },
+        {
+            "team": "HOU",
+            "name": "Boban Marjanovi\u0107",
+            "age": 34,
+            "years": 1,
+            "contract": 3500000,
+            "ppg": "2.8",
+            "ast": "0.2",
+            "trb": "1.3"
+        },
+        {
+            "team": "HOU",
+            "name": "Alperen \u015eeng\u00fcn",
+            "age": 20,
+            "years": 3,
+            "contract": 12336294,
+            "ppg": "14.4",
+            "ast": "2.6",
+            "trb": "8.6"
+        },
+        {
+            "team": "HOU",
+            "name": "Tari Eason",
+            "age": 21,
+            "years": 4,
+            "contract": 16257246,
+            "ppg": "8.3",
+            "ast": "0.8",
+            "trb": "5.4"
+        },
+        {
+            "team": "HOU",
+            "name": "Kevin Porter Jr.",
+            "age": 22,
+            "years": 5,
+            "contract": 76173631,
+            "ppg": "19.5",
+            "ast": "5.8",
+            "trb": "5.6"
+        },
+        {
+            "team": "HOU",
+            "name": "Bruno Fernando",
+            "age": 24,
+            "years": 4,
+            "contract": 10869564,
+            "ppg": "3.7",
+            "ast": "0.9",
+            "trb": "3.6"
+        },
+        {
+            "team": "HOU",
+            "name": "Usman Garuba",
+            "age": 20,
+            "years": 3,
+            "contract": 9452075,
+            "ppg": "3.4",
+            "ast": "1.0",
+            "trb": "5.1"
+        },
+        {
+            "team": "HOU",
+            "name": "Josh Christopher",
+            "age": 21,
+            "years": 3,
+            "contract": 9203975,
+            "ppg": "2.5",
+            "ast": "0.6",
+            "trb": "1.0"
+        },
+        {
+            "team": "HOU",
+            "name": "TyTy Washington Jr.",
+            "age": 21,
+            "years": 4,
+            "contract": 11349659,
+            "ppg": "3.5",
+            "ast": "1.4",
+            "trb": "1.4"
+        },
+        {
+            "team": "HOU",
+            "name": "Garrison Mathews",
+            "age": 26,
+            "years": 3,
+            "contract": 6230253,
+            "ppg": "4.5",
+            "ast": "0.5",
+            "trb": "1.2"
+        },
+        {
+            "team": "HOU",
+            "name": "Kenyon Martin Jr.",
+            "age": 21,
+            "years": 2,
+            "contract": 3713302,
+            "ppg": "10.4",
+            "ast": "1.4",
+            "trb": "4.9"
+        },
+        {
+            "team": "HOU",
+            "name": "Daishen Nix",
+            "age": 20,
+            "years": 3,
+            "contract": 5388212,
+            "ppg": "3.6",
+            "ast": "2.5",
+            "trb": "1.6"
+        },
+        {
+            "team": "HOU",
+            "name": "Trevor Hudgins",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "3.0",
+            "ast": "0.0",
+            "trb": "0.0"
+        },
+        {
+            "team": "HOU",
+            "name": "Darius Days",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "HOU",
+            "name": "Derrick Favors",
+            "age": 31,
+            "years": 1,
+            "contract": 10183800,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "HOU",
+            "name": "Maurice Harkless",
+            "age": 29,
+            "years": 1,
+            "contract": 4564980,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "HOU",
+            "name": "D.J. Augustin",
+            "age": 35,
+            "years": 1,
+            "contract": 333333,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "HOU",
+            "name": "Troy Williams",
+            "age": 28,
+            "years": 1,
+            "contract": 122741,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "IND",
+            "name": "Buddy Hield",
+            "age": 30,
+            "years": 2,
+            "contract": 40457591,
+            "ppg": "17.9",
+            "ast": "2.7",
+            "trb": "4.8"
+        },
+        {
+            "team": "IND",
+            "name": "Myles Turner",
+            "age": 26,
+            "years": 1,
+            "contract": 18000000,
+            "ppg": "16.8",
+            "ast": "1.5",
+            "trb": "7.9"
+        },
+        {
+            "team": "IND",
+            "name": "Daniel Theis",
+            "age": 30,
+            "years": 3,
+            "contract": 27325161,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "IND",
+            "name": "T.J. McConnell",
+            "age": 30,
+            "years": 3,
+            "contract": 26100000,
+            "ppg": "5.6",
+            "ast": "4.3",
+            "trb": "2.3"
+        },
+        {
+            "team": "IND",
+            "name": "Bennedict Mathurin",
+            "age": 20,
+            "years": 4,
+            "contract": 29936173,
+            "ppg": "17.3",
+            "ast": "1.4",
+            "trb": "3.9"
+        },
+        {
+            "team": "IND",
+            "name": "Goga Bitadze",
+            "age": 23,
+            "years": 1,
+            "contract": 4765339,
+            "ppg": "3.6",
+            "ast": "0.9",
+            "trb": "2.2"
+        },
+        {
+            "team": "IND",
+            "name": "Jalen Smith",
+            "age": 22,
+            "years": 3,
+            "contract": 15131319,
+            "ppg": "10.0",
+            "ast": "1.0",
+            "trb": "6.3"
+        },
+        {
+            "team": "IND",
+            "name": "Tyrese Haliburton",
+            "age": 22,
+            "years": 2,
+            "contract": 10023555,
+            "ppg": "20.7",
+            "ast": "10.1",
+            "trb": "3.9"
+        },
+        {
+            "team": "IND",
+            "name": "Chris Duarte",
+            "age": 25,
+            "years": 3,
+            "contract": 13955128,
+            "ppg": "6.6",
+            "ast": "1.3",
+            "trb": "2.2"
+        },
+        {
+            "team": "IND",
+            "name": "Aaron Nesmith",
+            "age": 23,
+            "years": 2,
+            "contract": 9438617,
+            "ppg": "9.5",
+            "ast": "1.2",
+            "trb": "3.6"
+        },
+        {
+            "team": "IND",
+            "name": "Isaiah Jackson",
+            "age": 20,
+            "years": 3,
+            "contract": 9705421,
+            "ppg": "6.8",
+            "ast": "1.0",
+            "trb": "4.1"
+        },
+        {
+            "team": "IND",
+            "name": "Andrew Nembhard",
+            "age": 22,
+            "years": 4,
+            "contract": 8583166,
+            "ppg": "8.0",
+            "ast": "3.8",
+            "trb": "3.1"
+        },
+        {
+            "team": "IND",
+            "name": "Oshae Brissett",
+            "age": 24,
+            "years": 1,
+            "contract": 1846738,
+            "ppg": "6.0",
+            "ast": "0.5",
+            "trb": "3.1"
+        },
+        {
+            "team": "IND",
+            "name": "James Johnson",
+            "age": 35,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "1.7",
+            "ast": "0.6",
+            "trb": "0.9"
+        },
+        {
+            "team": "IND",
+            "name": "Terry Taylor",
+            "age": 23,
+            "years": 2,
+            "contract": 3399614,
+            "ppg": "1.8",
+            "ast": "0.3",
+            "trb": "1.3"
+        },
+        {
+            "team": "PHI",
+            "name": "Trevelin Queen",
+            "age": 25,
+            "years": 1,
+            "contract": 330000,
+            "ppg": "0.0",
+            "ast": "1.0",
+            "trb": "1.5"
+        },
+        {
+            "team": "IND",
+            "name": "Kendall Brown",
+            "age": 19,
+            "years": 0,
+            "contract": 0,
+            "ppg": "1.5",
+            "ast": "0.5",
+            "trb": "1.0"
+        },
+        {
+            "team": "IND",
+            "name": "Juwan Morgan",
+            "age": 25,
+            "years": 3,
+            "contract": 1728689,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "IND",
+            "name": "Malik Fitts",
+            "age": 25,
+            "years": 3,
+            "contract": 1665650,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "LAC",
+            "name": "Paul George",
+            "age": 32,
+            "years": 3,
+            "contract": 136920252,
+            "ppg": "24.4",
+            "ast": "5.3",
+            "trb": "6.1"
+        },
+        {
+            "team": "LAC",
+            "name": "Kawhi Leonard",
+            "age": 31,
+            "years": 3,
+            "contract": 136920252,
+            "ppg": "17.3",
+            "ast": "3.9",
+            "trb": "6.1"
+        },
+        {
+            "team": "LAC",
+            "name": "Norman Powell",
+            "age": 29,
+            "years": 4,
+            "contract": 74482758,
+            "ppg": "15.0",
+            "ast": "1.7",
+            "trb": "2.8"
+        },
+        {
+            "team": "LAC",
+            "name": "Marcus Morris",
+            "age": 33,
+            "years": 2,
+            "contract": 33488372,
+            "ppg": "13.4",
+            "ast": "1.8",
+            "trb": "5.1"
+        },
+        {
+            "team": "LAC",
+            "name": "Luke Kennard",
+            "age": 26,
+            "years": 3,
+            "contract": 45252271,
+            "ppg": "8.8",
+            "ast": "1.2",
+            "trb": "2.5"
+        },
+        {
+            "team": "LAC",
+            "name": "Robert Covington",
+            "age": 32,
+            "years": 2,
+            "contract": 24000000,
+            "ppg": "5.2",
+            "ast": "1.1",
+            "trb": "3.5"
+        },
+        {
+            "team": "LAC",
+            "name": "Reggie Jackson",
+            "age": 32,
+            "years": 1,
+            "contract": 11215260,
+            "ppg": "12.1",
+            "ast": "3.8",
+            "trb": "2.6"
+        },
+        {
+            "team": "LAC",
+            "name": "Nicolas Batum",
+            "age": 34,
+            "years": 2,
+            "contract": 22554168,
+            "ppg": "6.3",
+            "ast": "1.3",
+            "trb": "4.4"
+        },
+        {
+            "team": "LAC",
+            "name": "Ivica Zubac",
+            "age": 25,
+            "years": 3,
+            "contract": 32800000,
+            "ppg": "10.2",
+            "ast": "1.0",
+            "trb": "10.8"
+        },
+        {
+            "team": "LAC",
+            "name": "John Wall",
+            "age": 32,
+            "years": 2,
+            "contract": 13281950,
+            "ppg": "11.5",
+            "ast": "5.2",
+            "trb": "2.6"
+        },
+        {
+            "team": "LAC",
+            "name": "Amir Coffey",
+            "age": 25,
+            "years": 3,
+            "contract": 11000000,
+            "ppg": "3.8",
+            "ast": "1.2",
+            "trb": "1.1"
+        },
+        {
+            "team": "LAC",
+            "name": "Terance Mann",
+            "age": 26,
+            "years": 3,
+            "contract": 23930681,
+            "ppg": "7.9",
+            "ast": "1.8",
+            "trb": "3.7"
+        },
+        {
+            "team": "LAC",
+            "name": "Brandon Boston Jr.",
+            "age": 21,
+            "years": 2,
+            "contract": 3399614,
+            "ppg": "5.3",
+            "ast": "0.7",
+            "trb": "1.0"
+        },
+        {
+            "team": "LAC",
+            "name": "Jason Preston",
+            "age": 23,
+            "years": 2,
+            "contract": 3399614,
+            "ppg": "2.8",
+            "ast": "1.6",
+            "trb": "1.0"
+        },
+        {
+            "team": "LAC",
+            "name": "Moses Brown",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "3.6",
+            "ast": "0.1",
+            "trb": "2.9"
+        },
+        {
+            "team": "LAC",
+            "name": "Moussa Diabat\u00e9",
+            "age": 20,
+            "years": 0,
+            "contract": 0,
+            "ppg": "4.1",
+            "ast": "0.3",
+            "trb": "4.0"
+        },
+        {
+            "team": "LAL",
+            "name": "Russell Westbrook",
+            "age": 34,
+            "years": 1,
+            "contract": 47063478,
+            "ppg": "14.3",
+            "ast": "7.6",
+            "trb": "6.2"
+        },
+        {
+            "team": "LAL",
+            "name": "LeBron James",
+            "age": 38,
+            "years": 3,
+            "contract": 155484559,
+            "ppg": "29.0",
+            "ast": "6.6",
+            "trb": "8.2"
+        },
+        {
+            "team": "LAL",
+            "name": "Anthony Davis",
+            "age": 29,
+            "years": 3,
+            "contract": 121800240,
+            "ppg": "27.4",
+            "ast": "2.6",
+            "trb": "12.1"
+        },
+        {
+            "team": "LAL",
+            "name": "Patrick Beverley",
+            "age": 34,
+            "years": 1,
+            "contract": 13000000,
+            "ppg": "6.1",
+            "ast": "2.6",
+            "trb": "3.7"
+        },
+        {
+            "team": "LAL",
+            "name": "Lonnie Walker IV",
+            "age": 24,
+            "years": 1,
+            "contract": 6479000,
+            "ppg": "14.7",
+            "ast": "1.4",
+            "trb": "2.3"
+        },
+        {
+            "team": "LAL",
+            "name": "Kendrick Nunn",
+            "age": 27,
+            "years": 1,
+            "contract": 5250000,
+            "ppg": "5.2",
+            "ast": "0.9",
+            "trb": "1.1"
+        },
+        {
+            "team": "LAL",
+            "name": "Damian Jones",
+            "age": 27,
+            "years": 2,
+            "contract": 4885050,
+            "ppg": "3.1",
+            "ast": "0.2",
+            "trb": "2.9"
+        },
+        {
+            "team": "LAL",
+            "name": "Wenyen Gabriel",
+            "age": 25,
+            "years": 1,
+            "contract": 1878720,
+            "ppg": "5.7",
+            "ast": "0.5",
+            "trb": "3.9"
+        },
+        {
+            "team": "LAL",
+            "name": "Troy Brown Jr.",
+            "age": 23,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "6.7",
+            "ast": "0.7",
+            "trb": "3.9"
+        },
+        {
+            "team": "LAL",
+            "name": "Thomas Bryant",
+            "age": 25,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "11.6",
+            "ast": "1.0",
+            "trb": "6.5"
+        },
+        {
+            "team": "LAL",
+            "name": "Dennis Schr\u00f6der",
+            "age": 29,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "10.8",
+            "ast": "3.9",
+            "trb": "2.1"
+        },
+        {
+            "team": "LAL",
+            "name": "Juan Toscano-Anderson",
+            "age": 29,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "2.2",
+            "ast": "0.6",
+            "trb": "2.2"
+        },
+        {
+            "team": "LAL",
+            "name": "Austin Reaves",
+            "age": 24,
+            "years": 1,
+            "contract": 1563518,
+            "ppg": "10.8",
+            "ast": "2.2",
+            "trb": "3.0"
+        },
+        {
+            "team": "LAL",
+            "name": "Max Christie",
+            "age": 19,
+            "years": 2,
+            "contract": 2737645,
+            "ppg": "3.0",
+            "ast": "0.5",
+            "trb": "2.3"
+        },
+        {
+            "team": "LAL",
+            "name": "Scotty Pippen Jr.",
+            "age": 22,
+            "years": 0,
+            "contract": 0,
+            "ppg": "2.3",
+            "ast": "0.3",
+            "trb": "1.3"
+        },
+        {
+            "team": "LAL",
+            "name": "Cole Swider",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.0",
+            "ast": "1.0",
+            "trb": "1.0"
+        },
+        {
+            "team": "MEM",
+            "name": "Jaren Jackson Jr.",
+            "age": 23,
+            "years": 4,
+            "contract": 104720000,
+            "ppg": "15.9",
+            "ast": "0.9",
+            "trb": "6.1"
+        },
+        {
+            "team": "MEM",
+            "name": "Steven Adams",
+            "age": 29,
+            "years": 3,
+            "contract": 43126829,
+            "ppg": "8.1",
+            "ast": "2.2",
+            "trb": "11.2"
+        },
+        {
+            "team": "MEM",
+            "name": "Tyus Jones",
+            "age": 26,
+            "years": 2,
+            "contract": 29000000,
+            "ppg": "10.2",
+            "ast": "4.7",
+            "trb": "2.3"
+        },
+        {
+            "team": "MEM",
+            "name": "Ja Morant",
+            "age": 23,
+            "years": 6,
+            "contract": 204969440,
+            "ppg": "27.2",
+            "ast": "8.0",
+            "trb": "6.2"
+        },
+        {
+            "team": "MEM",
+            "name": "Dillon Brooks",
+            "age": 26,
+            "years": 1,
+            "contract": 11400000,
+            "ppg": "17.2",
+            "ast": "2.8",
+            "trb": "3.4"
+        },
+        {
+            "team": "MEM",
+            "name": "Danny Green",
+            "age": 35,
+            "years": 1,
+            "contract": 10000000,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "MEM",
+            "name": "Ziaire Williams",
+            "age": 21,
+            "years": 3,
+            "contract": 15534885,
+            "ppg": "4.6",
+            "ast": "1.4",
+            "trb": "3.1"
+        },
+        {
+            "team": "MEM",
+            "name": "Brandon Clarke",
+            "age": 26,
+            "years": 5,
+            "contract": 54343920,
+            "ppg": "10.1",
+            "ast": "1.1",
+            "trb": "5.5"
+        },
+        {
+            "team": "MEM",
+            "name": "Jake LaRavia",
+            "age": 21,
+            "years": 4,
+            "contract": 14763367,
+            "ppg": "3.7",
+            "ast": "0.8",
+            "trb": "2.3"
+        },
+        {
+            "team": "MEM",
+            "name": "David Roddy",
+            "age": 21,
+            "years": 4,
+            "contract": 12985886,
+            "ppg": "6.4",
+            "ast": "0.7",
+            "trb": "2.7"
+        },
+        {
+            "team": "MEM",
+            "name": "John Konchar",
+            "age": 26,
+            "years": 5,
+            "contract": 23195000,
+            "ppg": "7.5",
+            "ast": "1.6",
+            "trb": "5.5"
+        },
+        {
+            "team": "MEM",
+            "name": "Desmond Bane",
+            "age": 24,
+            "years": 2,
+            "contract": 5975323,
+            "ppg": "21.8",
+            "ast": "3.7",
+            "trb": "4.6"
+        },
+        {
+            "team": "MEM",
+            "name": "Santi Aldama",
+            "age": 21,
+            "years": 3,
+            "contract": 8248851,
+            "ppg": "9.6",
+            "ast": "1.3",
+            "trb": "5.2"
+        },
+        {
+            "team": "MEM",
+            "name": "Xavier Tillman Sr.",
+            "age": 23,
+            "years": 2,
+            "contract": 3713302,
+            "ppg": "3.9",
+            "ast": "0.4",
+            "trb": "2.2"
+        },
+        {
+            "team": "MEM",
+            "name": "Kennedy Chandler",
+            "age": 20,
+            "years": 4,
+            "contract": 7127014,
+            "ppg": "2.9",
+            "ast": "2.1",
+            "trb": "1.4"
+        },
+        {
+            "team": "MEM",
+            "name": "Kenneth Lofton Jr.",
+            "age": 20,
+            "years": 0,
+            "contract": 0,
+            "ppg": "2.5",
+            "ast": "0.7",
+            "trb": "0.7"
+        },
+        {
+            "team": "MEM",
+            "name": "Vince Williams Jr.",
+            "age": 22,
+            "years": 0,
+            "contract": 0,
+            "ppg": "1.0",
+            "ast": "0.3",
+            "trb": "0.7"
+        },
+        {
+            "team": "MIA",
+            "name": "Jimmy Butler",
+            "age": 33,
+            "years": 4,
+            "contract": 184049331,
+            "ppg": "21.3",
+            "ast": "5.8",
+            "trb": "6.5"
+        },
+        {
+            "team": "MIA",
+            "name": "Bam Adebayo",
+            "age": 25,
+            "years": 4,
+            "contract": 134896800,
+            "ppg": "21.5",
+            "ast": "3.2",
+            "trb": "9.9"
+        },
+        {
+            "team": "MIA",
+            "name": "Kyle Lowry",
+            "age": 36,
+            "years": 2,
+            "contract": 58015874,
+            "ppg": "13.5",
+            "ast": "5.8",
+            "trb": "4.5"
+        },
+        {
+            "team": "MIA",
+            "name": "Duncan Robinson",
+            "age": 28,
+            "years": 4,
+            "contract": 74350000,
+            "ppg": "6.9",
+            "ast": "1.2",
+            "trb": "1.9"
+        },
+        {
+            "team": "MIA",
+            "name": "Victor Oladipo",
+            "age": 30,
+            "years": 2,
+            "contract": 18200000,
+            "ppg": "9.8",
+            "ast": "3.0",
+            "trb": "2.9"
+        },
+        {
+            "team": "MIA",
+            "name": "Caleb Martin",
+            "age": 27,
+            "years": 3,
+            "contract": 20408850,
+            "ppg": "10.5",
+            "ast": "1.9",
+            "trb": "4.8"
+        },
+        {
+            "team": "MIA",
+            "name": "Tyler Herro",
+            "age": 22,
+            "years": 5,
+            "contract": 125722116,
+            "ppg": "21.5",
+            "ast": "4.6",
+            "trb": "6.1"
+        },
+        {
+            "team": "MIA",
+            "name": "Nikola Jovi\u0107",
+            "age": 19,
+            "years": 4,
+            "contract": 11501537,
+            "ppg": "5.5",
+            "ast": "0.7",
+            "trb": "2.1"
+        },
+        {
+            "team": "MIA",
+            "name": "Udonis Haslem",
+            "age": 42,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "0.6",
+            "ast": "0.0",
+            "trb": "1.2"
+        },
+        {
+            "team": "MIA",
+            "name": "Max Strus",
+            "age": 26,
+            "years": 1,
+            "contract": 1815677,
+            "ppg": "13.1",
+            "ast": "1.9",
+            "trb": "3.5"
+        },
+        {
+            "team": "MIA",
+            "name": "Gabe Vincent",
+            "age": 26,
+            "years": 1,
+            "contract": 1815677,
+            "ppg": "8.5",
+            "ast": "2.7",
+            "trb": "2.0"
+        },
+        {
+            "team": "MIA",
+            "name": "Haywood Highsmith",
+            "age": 26,
+            "years": 2,
+            "contract": 3654775,
+            "ppg": "4.5",
+            "ast": "0.8",
+            "trb": "3.6"
+        },
+        {
+            "team": "MIA",
+            "name": "Omer Yurtseven",
+            "age": 24,
+            "years": 1,
+            "contract": 1752638,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "MIA",
+            "name": "Jamal Cain",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "4.0",
+            "ast": "0.5",
+            "trb": "2.2"
+        },
+        {
+            "team": "MIA",
+            "name": "Orlando Robinson",
+            "age": 22,
+            "years": 0,
+            "contract": 0,
+            "ppg": "5.7",
+            "ast": "1.1",
+            "trb": "4.1"
+        },
+        {
+            "team": "MIL",
+            "name": "Giannis Antetokounmpo",
+            "age": 28,
+            "years": 4,
+            "contract": 188855520,
+            "ppg": "32.1",
+            "ast": "5.2",
+            "trb": "11.8"
+        },
+        {
+            "team": "MIL",
+            "name": "Khris Middleton",
+            "age": 31,
+            "years": 2,
+            "contract": 78344828,
+            "ppg": "11.1",
+            "ast": "4.4",
+            "trb": "2.6"
+        },
+        {
+            "team": "MIL",
+            "name": "Jrue Holiday",
+            "age": 32,
+            "years": 3,
+            "contract": 108476241,
+            "ppg": "18.9",
+            "ast": "7.5",
+            "trb": "5.3"
+        },
+        {
+            "team": "MIL",
+            "name": "Brook Lopez",
+            "age": 34,
+            "years": 1,
+            "contract": 13906976,
+            "ppg": "14.6",
+            "ast": "1.1",
+            "trb": "6.0"
+        },
+        {
+            "team": "MIL",
+            "name": "Bobby Portis",
+            "age": 27,
+            "years": 4,
+            "contract": 48578208,
+            "ppg": "14.0",
+            "ast": "1.8",
+            "trb": "10.1"
+        },
+        {
+            "team": "MIL",
+            "name": "Grayson Allen",
+            "age": 27,
+            "years": 2,
+            "contract": 17000000,
+            "ppg": "10.3",
+            "ast": "2.6",
+            "trb": "3.7"
+        },
+        {
+            "team": "MIL",
+            "name": "Joe Ingles",
+            "age": 35,
+            "years": 1,
+            "contract": 6479000,
+            "ppg": "4.7",
+            "ast": "3.3",
+            "trb": "1.7"
+        },
+        {
+            "team": "MIL",
+            "name": "Pat Connaughton",
+            "age": 29,
+            "years": 4,
+            "contract": 34000000,
+            "ppg": "6.9",
+            "ast": "0.9",
+            "trb": "3.6"
+        },
+        {
+            "team": "MIL",
+            "name": "George Hill",
+            "age": 36,
+            "years": 1,
+            "contract": 4000000,
+            "ppg": "5.0",
+            "ast": "2.6",
+            "trb": "2.1"
+        },
+        {
+            "team": "MIL",
+            "name": "Jordan Nwora",
+            "age": 24,
+            "years": 2,
+            "contract": 6200000,
+            "ppg": "6.1",
+            "ast": "0.9",
+            "trb": "3.0"
+        },
+        {
+            "team": "MIL",
+            "name": "MarJon Beauchamp",
+            "age": 22,
+            "years": 4,
+            "contract": 12609596,
+            "ppg": "6.2",
+            "ast": "0.5",
+            "trb": "2.6"
+        },
+        {
+            "team": "MIL",
+            "name": "Jevon Carter",
+            "age": 27,
+            "years": 2,
+            "contract": 4339943,
+            "ppg": "7.8",
+            "ast": "3.1",
+            "trb": "3.0"
+        },
+        {
+            "team": "MIL",
+            "name": "Thanasis Antetokounmpo",
+            "age": 30,
+            "years": 1,
+            "contract": 1878720,
+            "ppg": "0.4",
+            "ast": "0.2",
+            "trb": "0.8"
+        },
+        {
+            "team": "MIL",
+            "name": "Serge Ibaka",
+            "age": 33,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "4.1",
+            "ast": "0.3",
+            "trb": "2.8"
+        },
+        {
+            "team": "MIL",
+            "name": "Wesley Matthews",
+            "age": 36,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "3.0",
+            "ast": "0.6",
+            "trb": "1.7"
+        },
+        {
+            "team": "MIL",
+            "name": "A.J. Green",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "3.9",
+            "ast": "0.4",
+            "trb": "1.0"
+        },
+        {
+            "team": "MIL",
+            "name": "Sandro Mamukelashvili",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "2.3",
+            "ast": "0.8",
+            "trb": "2.3"
+        },
+        {
+            "team": "MIN",
+            "name": "Rudy Gobert",
+            "age": 30,
+            "years": 4,
+            "contract": 169655172,
+            "ppg": "13.4",
+            "ast": "0.9",
+            "trb": "11.7"
+        },
+        {
+            "team": "MIN",
+            "name": "Karl-Anthony Towns",
+            "age": 27,
+            "years": 6,
+            "contract": 288820800,
+            "ppg": "20.8",
+            "ast": "5.3",
+            "trb": "8.2"
+        },
+        {
+            "team": "MIN",
+            "name": "D'Angelo Russell",
+            "age": 26,
+            "years": 1,
+            "contract": 31377750,
+            "ppg": "17.0",
+            "ast": "6.5",
+            "trb": "3.2"
+        },
+        {
+            "team": "MIN",
+            "name": "Anthony Edwards",
+            "age": 21,
+            "years": 2,
+            "contract": 24268217,
+            "ppg": "24.0",
+            "ast": "4.4",
+            "trb": "6.3"
+        },
+        {
+            "team": "MIN",
+            "name": "Kyle Anderson",
+            "age": 29,
+            "years": 2,
+            "contract": 18000000,
+            "ppg": "7.9",
+            "ast": "3.5",
+            "trb": "4.2"
+        },
+        {
+            "team": "MIN",
+            "name": "Taurean Prince",
+            "age": 28,
+            "years": 2,
+            "contract": 14945000,
+            "ppg": "7.9",
+            "ast": "1.2",
+            "trb": "2.5"
+        },
+        {
+            "team": "MIN",
+            "name": "Wendell Moore Jr.",
+            "age": 21,
+            "years": 4,
+            "contract": 11839563,
+            "ppg": "2.0",
+            "ast": "0.5",
+            "trb": "0.8"
+        },
+        {
+            "team": "MIN",
+            "name": "Jaden McDaniels",
+            "age": 22,
+            "years": 2,
+            "contract": 6062839,
+            "ppg": "11.5",
+            "ast": "1.8",
+            "trb": "3.7"
+        },
+        {
+            "team": "MIN",
+            "name": "Jordan McLaughlin",
+            "age": 26,
+            "years": 2,
+            "contract": 4480000,
+            "ppg": "4.1",
+            "ast": "3.6",
+            "trb": "1.7"
+        },
+        {
+            "team": "MIN",
+            "name": "Jaylen Nowell",
+            "age": 23,
+            "years": 1,
+            "contract": 1930681,
+            "ppg": "11.6",
+            "ast": "2.1",
+            "trb": "2.9"
+        },
+        {
+            "team": "MIN",
+            "name": "Naz Reid",
+            "age": 23,
+            "years": 1,
+            "contract": 1930681,
+            "ppg": "10.6",
+            "ast": "1.0",
+            "trb": "4.8"
+        },
+        {
+            "team": "MIN",
+            "name": "Nathan Knight",
+            "age": 25,
+            "years": 2,
+            "contract": 3833328,
+            "ppg": "2.8",
+            "ast": "0.3",
+            "trb": "1.3"
+        },
+        {
+            "team": "MIN",
+            "name": "Austin Rivers",
+            "age": 30,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "5.4",
+            "ast": "1.4",
+            "trb": "1.6"
+        },
+        {
+            "team": "MIN",
+            "name": "Bryn Forbes",
+            "age": 29,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "3.2",
+            "ast": "0.6",
+            "trb": "0.6"
+        },
+        {
+            "team": "MIN",
+            "name": "Josh Minott",
+            "age": 20,
+            "years": 4,
+            "contract": 6944795,
+            "ppg": "1.7",
+            "ast": "0.3",
+            "trb": "0.5"
+        },
+        {
+            "team": "MIN",
+            "name": "Luka Garza",
+            "age": 24,
+            "years": 0,
+            "contract": 0,
+            "ppg": "4.4",
+            "ast": "0.4",
+            "trb": "1.9"
+        },
+        {
+            "team": "MIN",
+            "name": "Matt Ryan",
+            "age": 25,
+            "years": 0,
+            "contract": 0,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "NOP",
+            "name": "CJ McCollum",
+            "age": 31,
+            "years": 4,
+            "contract": 133135801,
+            "ppg": "20.0",
+            "ast": "6.0",
+            "trb": "4.8"
+        },
+        {
+            "team": "NOP",
+            "name": "Brandon Ingram",
+            "age": 25,
+            "years": 3,
+            "contract": 101500200,
+            "ppg": "20.8",
+            "ast": "4.7",
+            "trb": "5.1"
+        },
+        {
+            "team": "NOP",
+            "name": "Jonas Valan\u010di\u016bnas",
+            "age": 30,
+            "years": 2,
+            "contract": 30135000,
+            "ppg": "13.5",
+            "ast": "1.8",
+            "trb": "9.4"
+        },
+        {
+            "team": "NOP",
+            "name": "Zion Williamson",
+            "age": 22,
+            "years": 6,
+            "contract": 206384817,
+            "ppg": "26.0",
+            "ast": "4.6",
+            "trb": "7.0"
+        },
+        {
+            "team": "NOP",
+            "name": "Devonte' Graham",
+            "age": 27,
+            "years": 3,
+            "contract": 36300000,
+            "ppg": "5.2",
+            "ast": "2.1",
+            "trb": "1.6"
+        },
+        {
+            "team": "NOP",
+            "name": "Larry Nance Jr.",
+            "age": 30,
+            "years": 3,
+            "contract": 31252727,
+            "ppg": "8.6",
+            "ast": "1.8",
+            "trb": "5.6"
+        },
+        {
+            "team": "NOP",
+            "name": "Jaxson Hayes",
+            "age": 22,
+            "years": 1,
+            "contract": 6803012,
+            "ppg": "4.8",
+            "ast": "0.8",
+            "trb": "2.6"
+        },
+        {
+            "team": "NOP",
+            "name": "Dyson Daniels",
+            "age": 19,
+            "years": 4,
+            "contract": 25059949,
+            "ppg": "4.5",
+            "ast": "2.1",
+            "trb": "3.3"
+        },
+        {
+            "team": "NOP",
+            "name": "Garrett Temple",
+            "age": 36,
+            "years": 2,
+            "contract": 10556500,
+            "ppg": "2.4",
+            "ast": "0.4",
+            "trb": "0.8"
+        },
+        {
+            "team": "NOP",
+            "name": "Kira Lewis Jr.",
+            "age": 21,
+            "years": 2,
+            "contract": 9726396,
+            "ppg": "5.5",
+            "ast": "0.5",
+            "trb": "1.0"
+        },
+        {
+            "team": "NOP",
+            "name": "Trey Murphy III",
+            "age": 22,
+            "years": 3,
+            "contract": 11725654,
+            "ppg": "12.7",
+            "ast": "1.3",
+            "trb": "4.2"
+        },
+        {
+            "team": "NOP",
+            "name": "Willy Hernang\u00f3mez",
+            "age": 28,
+            "years": 2,
+            "contract": 5003523,
+            "ppg": "6.5",
+            "ast": "0.8",
+            "trb": "4.3"
+        },
+        {
+            "team": "NOP",
+            "name": "Herbert Jones",
+            "age": 24,
+            "years": 2,
+            "contract": 3621096,
+            "ppg": "10.2",
+            "ast": "2.2",
+            "trb": "3.8"
+        },
+        {
+            "team": "NOP",
+            "name": "Naji Marshall",
+            "age": 24,
+            "years": 2,
+            "contract": 3713302,
+            "ppg": "8.8",
+            "ast": "2.3",
+            "trb": "3.4"
+        },
+        {
+            "team": "NOP",
+            "name": "Jose Alvarado",
+            "age": 24,
+            "years": 3,
+            "contract": 5388212,
+            "ppg": "8.7",
+            "ast": "2.9",
+            "trb": "2.3"
+        },
+        {
+            "team": "NOP",
+            "name": "E.J. Liddell",
+            "age": 22,
+            "years": 0,
+            "contract": 0,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "NOP",
+            "name": "Dereon Seabron",
+            "age": 22,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.0",
+            "ast": "0.0",
+            "trb": "0.0"
+        },
+        {
+            "team": "NYK",
+            "name": "Jalen Brunson",
+            "age": 26,
+            "years": 4,
+            "contract": 104000000,
+            "ppg": "20.3",
+            "ast": "6.5",
+            "trb": "3.2"
+        },
+        {
+            "team": "NYK",
+            "name": "Julius Randle",
+            "age": 28,
+            "years": 4,
+            "contract": 106444800,
+            "ppg": "24.2",
+            "ast": "3.8",
+            "trb": "9.9"
+        },
+        {
+            "team": "NYK",
+            "name": "Evan Fournier",
+            "age": 30,
+            "years": 3,
+            "contract": 55857143,
+            "ppg": "7.1",
+            "ast": "1.5",
+            "trb": "2.2"
+        },
+        {
+            "team": "NYK",
+            "name": "Mitchell Robinson",
+            "age": 24,
+            "years": 4,
+            "contract": 60000000,
+            "ppg": "7.7",
+            "ast": "1.0",
+            "trb": "8.9"
+        },
+        {
+            "team": "NYK",
+            "name": "Derrick Rose",
+            "age": 34,
+            "years": 2,
+            "contract": 30117069,
+            "ppg": "5.8",
+            "ast": "1.8",
+            "trb": "1.5"
+        },
+        {
+            "team": "NYK",
+            "name": "RJ Barrett",
+            "age": 22,
+            "years": 5,
+            "contract": 117900635,
+            "ppg": "19.7",
+            "ast": "3.0",
+            "trb": "5.5"
+        },
+        {
+            "team": "NYK",
+            "name": "Isaiah Hartenstein",
+            "age": 24,
+            "years": 2,
+            "contract": 16000000,
+            "ppg": "5.4",
+            "ast": "0.8",
+            "trb": "6.4"
+        },
+        {
+            "team": "NYK",
+            "name": "Cam Reddish",
+            "age": 23,
+            "years": 1,
+            "contract": 5954454,
+            "ppg": "8.4",
+            "ast": "1.0",
+            "trb": "1.6"
+        },
+        {
+            "team": "NYK",
+            "name": "Obi Toppin",
+            "age": 24,
+            "years": 2,
+            "contract": 12151292,
+            "ppg": "7.7",
+            "ast": "1.0",
+            "trb": "3.8"
+        },
+        {
+            "team": "NYK",
+            "name": "Immanuel Quickley",
+            "age": 23,
+            "years": 2,
+            "contract": 6487788,
+            "ppg": "11.8",
+            "ast": "3.4",
+            "trb": "4.0"
+        },
+        {
+            "team": "NYK",
+            "name": "Quentin Grimes",
+            "age": 22,
+            "years": 3,
+            "contract": 8959402,
+            "ppg": "10.1",
+            "ast": "2.1",
+            "trb": "3.3"
+        },
+        {
+            "team": "NYK",
+            "name": "Svi Mykhailiuk",
+            "age": 25,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "1.8",
+            "ast": "0.1",
+            "trb": "0.6"
+        },
+        {
+            "team": "NYK",
+            "name": "Ryan Arcidiacono",
+            "age": 28,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "0.3",
+            "ast": "0.2",
+            "trb": "0.4"
+        },
+        {
+            "team": "NYK",
+            "name": "Jericho Sims",
+            "age": 24,
+            "years": 3,
+            "contract": 5660082,
+            "ppg": "3.7",
+            "ast": "0.3",
+            "trb": "4.2"
+        },
+        {
+            "team": "NYK",
+            "name": "Miles McBride",
+            "age": 22,
+            "years": 2,
+            "contract": 3399614,
+            "ppg": "3.9",
+            "ast": "1.3",
+            "trb": "0.8"
+        },
+        {
+            "team": "NYK",
+            "name": "Trevor Keels",
+            "age": 19,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.0",
+            "ast": "0.0",
+            "trb": "1.0"
+        },
+        {
+            "team": "NYK",
+            "name": "DaQuan Jeffries",
+            "age": 25,
+            "years": 0,
+            "contract": 0,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "OKC",
+            "name": "Shai Gilgeous-Alexander",
+            "age": 24,
+            "years": 5,
+            "contract": 179299750,
+            "ppg": "30.8",
+            "ast": "5.8",
+            "trb": "4.8"
+        },
+        {
+            "team": "OKC",
+            "name": "Luguentz Dort",
+            "age": 23,
+            "years": 5,
+            "contract": 82500000,
+            "ppg": "13.9",
+            "ast": "2.3",
+            "trb": "4.1"
+        },
+        {
+            "team": "OKC",
+            "name": "Chet Holmgren",
+            "age": 20,
+            "years": 4,
+            "contract": 44889248,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "OKC",
+            "name": "Josh Giddey",
+            "age": 20,
+            "years": 3,
+            "contract": 21226807,
+            "ppg": "14.9",
+            "ast": "5.4",
+            "trb": "8.2"
+        },
+        {
+            "team": "OKC",
+            "name": "Ousmane Dieng",
+            "age": 19,
+            "years": 4,
+            "contract": 21066202,
+            "ppg": "4.4",
+            "ast": "1.4",
+            "trb": "2.9"
+        },
+        {
+            "team": "OKC",
+            "name": "Jalen Williams",
+            "age": 21,
+            "years": 4,
+            "contract": 20256917,
+            "ppg": "11.4",
+            "ast": "2.6",
+            "trb": "3.7"
+        },
+        {
+            "team": "OKC",
+            "name": "Darius Bazley",
+            "age": 22,
+            "years": 1,
+            "contract": 4264629,
+            "ppg": "5.7",
+            "ast": "0.9",
+            "trb": "3.6"
+        },
+        {
+            "team": "OKC",
+            "name": "Mike Muscala",
+            "age": 31,
+            "years": 2,
+            "contract": 7000000,
+            "ppg": "5.8",
+            "ast": "0.9",
+            "trb": "3.1"
+        },
+        {
+            "team": "OKC",
+            "name": "Aleksej Pokusevski",
+            "age": 21,
+            "years": 2,
+            "contract": 8271113,
+            "ppg": "8.8",
+            "ast": "2.0",
+            "trb": "5.1"
+        },
+        {
+            "team": "OKC",
+            "name": "Tre Mann",
+            "age": 21,
+            "years": 3,
+            "contract": 11145973,
+            "ppg": "8.7",
+            "ast": "1.6",
+            "trb": "2.5"
+        },
+        {
+            "team": "OKC",
+            "name": "Kenrich Williams",
+            "age": 28,
+            "years": 5,
+            "contract": 29170000,
+            "ppg": "7.0",
+            "ast": "1.5",
+            "trb": "4.4"
+        },
+        {
+            "team": "OKC",
+            "name": "Jaylin Williams",
+            "age": 20,
+            "years": 4,
+            "contract": 8207150,
+            "ppg": "2.4",
+            "ast": "1.0",
+            "trb": "3.3"
+        },
+        {
+            "team": "OKC",
+            "name": "Jeremiah Robinson-Earl",
+            "age": 22,
+            "years": 3,
+            "contract": 5888598,
+            "ppg": "8.5",
+            "ast": "1.0",
+            "trb": "5.0"
+        },
+        {
+            "team": "OKC",
+            "name": "Isaiah Joe",
+            "age": 23,
+            "years": 3,
+            "contract": 5998321,
+            "ppg": "6.4",
+            "ast": "1.0",
+            "trb": "1.8"
+        },
+        {
+            "team": "OKC",
+            "name": "Aaron Wiggins",
+            "age": 23,
+            "years": 3,
+            "contract": 5388212,
+            "ppg": "6.3",
+            "ast": "1.4",
+            "trb": "3.7"
+        },
+        {
+            "team": "OKC",
+            "name": "Eugene Omoruyi",
+            "age": 25,
+            "years": 0,
+            "contract": 0,
+            "ppg": "5.2",
+            "ast": "0.5",
+            "trb": "2.4"
+        },
+        {
+            "team": "OKC",
+            "name": "David Nwaba",
+            "age": 29,
+            "years": 1,
+            "contract": 5022000,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "OKC",
+            "name": "Sterling Brown",
+            "age": 27,
+            "years": 1,
+            "contract": 3000000,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "OKC",
+            "name": "Marquese Chriss",
+            "age": 25,
+            "years": 1,
+            "contract": 2193920,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "OKC",
+            "name": "Kyle Singler",
+            "age": 34,
+            "years": 1,
+            "contract": 999200,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "ORL",
+            "name": "Jonathan Isaac",
+            "age": 25,
+            "years": 3,
+            "contract": 52200000,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "ORL",
+            "name": "Markelle Fultz",
+            "age": 24,
+            "years": 2,
+            "contract": 33500000,
+            "ppg": "11.3",
+            "ast": "5.3",
+            "trb": "4.1"
+        },
+        {
+            "team": "ORL",
+            "name": "Wendell Carter Jr.",
+            "age": 23,
+            "years": 4,
+            "contract": 50000000,
+            "ppg": "16.0",
+            "ast": "3.1",
+            "trb": "8.4"
+        },
+        {
+            "team": "ORL",
+            "name": "Gary Harris",
+            "age": 28,
+            "years": 2,
+            "contract": 26000000,
+            "ppg": "9.7",
+            "ast": "1.6",
+            "trb": "2.4"
+        },
+        {
+            "team": "ORL",
+            "name": "Terrence Ross",
+            "age": 31,
+            "years": 1,
+            "contract": 11500000,
+            "ppg": "8.0",
+            "ast": "1.3",
+            "trb": "2.0"
+        },
+        {
+            "team": "ORL",
+            "name": "Paolo Banchero",
+            "age": 20,
+            "years": 4,
+            "contract": 50158769,
+            "ppg": "20.9",
+            "ast": "3.9",
+            "trb": "6.7"
+        },
+        {
+            "team": "ORL",
+            "name": "Mo Bamba",
+            "age": 24,
+            "years": 2,
+            "contract": 20600000,
+            "ppg": "8.1",
+            "ast": "1.1",
+            "trb": "5.3"
+        },
+        {
+            "team": "ORL",
+            "name": "Jalen Suggs",
+            "age": 21,
+            "years": 3,
+            "contract": 23362785,
+            "ppg": "12.4",
+            "ast": "5.4",
+            "trb": "3.3"
+        },
+        {
+            "team": "ORL",
+            "name": "Franz Wagner",
+            "age": 21,
+            "years": 3,
+            "contract": 17774092,
+            "ppg": "19.9",
+            "ast": "3.5",
+            "trb": "4.0"
+        },
+        {
+            "team": "ORL",
+            "name": "Cole Anthony",
+            "age": 22,
+            "years": 2,
+            "contract": 9153451,
+            "ppg": "12.9",
+            "ast": "4.4",
+            "trb": "4.5"
+        },
+        {
+            "team": "ORL",
+            "name": "Chuma Okeke",
+            "age": 24,
+            "years": 2,
+            "contract": 8700033,
+            "ppg": "5.4",
+            "ast": "1.4",
+            "trb": "4.2"
+        },
+        {
+            "team": "ORL",
+            "name": "R.J. Hampton",
+            "age": 21,
+            "years": 2,
+            "contract": 6632897,
+            "ppg": "5.7",
+            "ast": "1.4",
+            "trb": "1.5"
+        },
+        {
+            "team": "ORL",
+            "name": "Bol Bol",
+            "age": 23,
+            "years": 2,
+            "contract": 4400000,
+            "ppg": "12.0",
+            "ast": "0.9",
+            "trb": "7.1"
+        },
+        {
+            "team": "ORL",
+            "name": "Caleb Houstan",
+            "age": 19,
+            "years": 4,
+            "contract": 8207398,
+            "ppg": "4.2",
+            "ast": "0.6",
+            "trb": "2.4"
+        },
+        {
+            "team": "ORL",
+            "name": "Moritz Wagner",
+            "age": 25,
+            "years": 1,
+            "contract": 1878720,
+            "ppg": "12.4",
+            "ast": "2.2",
+            "trb": "6.6"
+        },
+        {
+            "team": "ORL",
+            "name": "Admiral Schofield",
+            "age": 25,
+            "years": 0,
+            "contract": 0,
+            "ppg": "4.8",
+            "ast": "0.8",
+            "trb": "2.0"
+        },
+        {
+            "team": "ORL",
+            "name": "Kevon Harris",
+            "age": 25,
+            "years": 0,
+            "contract": 0,
+            "ppg": "3.7",
+            "ast": "0.5",
+            "trb": "2.0"
+        },
+        {
+            "team": "PHI",
+            "name": "Tobias Harris",
+            "age": 30,
+            "years": 2,
+            "contract": 76903200,
+            "ppg": "16.4",
+            "ast": "2.7",
+            "trb": "6.2"
+        },
+        {
+            "team": "PHI",
+            "name": "Joel Embiid",
+            "age": 28,
+            "years": 5,
+            "contract": 242160770,
+            "ppg": "33.5",
+            "ast": "4.6",
+            "trb": "9.8"
+        },
+        {
+            "team": "PHI",
+            "name": "James Harden",
+            "age": 33,
+            "years": 2,
+            "contract": 68640000,
+            "ppg": "22.1",
+            "ast": "11.0",
+            "trb": "6.0"
+        },
+        {
+            "team": "PHI",
+            "name": "P.J. Tucker",
+            "age": 37,
+            "years": 3,
+            "contract": 33043500,
+            "ppg": "3.5",
+            "ast": "0.8",
+            "trb": "4.3"
+        },
+        {
+            "team": "PHI",
+            "name": "De'Anthony Melton",
+            "age": 24,
+            "years": 2,
+            "contract": 16250000,
+            "ppg": "12.0",
+            "ast": "3.2",
+            "trb": "4.7"
+        },
+        {
+            "team": "PHI",
+            "name": "Furkan Korkmaz",
+            "age": 25,
+            "years": 2,
+            "contract": 10370370,
+            "ppg": "4.2",
+            "ast": "0.9",
+            "trb": "1.4"
+        },
+        {
+            "team": "PHI",
+            "name": "Matisse Thybulle",
+            "age": 25,
+            "years": 1,
+            "contract": 4379527,
+            "ppg": "2.4",
+            "ast": "0.4",
+            "trb": "1.2"
+        },
+        {
+            "team": "PHI",
+            "name": "Danuel House Jr.",
+            "age": 29,
+            "years": 2,
+            "contract": 8415250,
+            "ppg": "5.0",
+            "ast": "0.8",
+            "trb": "2.1"
+        },
+        {
+            "team": "PHI",
+            "name": "Georges Niang",
+            "age": 29,
+            "years": 1,
+            "contract": 3465000,
+            "ppg": "9.4",
+            "ast": "1.1",
+            "trb": "2.4"
+        },
+        {
+            "team": "PHI",
+            "name": "Tyrese Maxey",
+            "age": 22,
+            "years": 2,
+            "contract": 7070800,
+            "ppg": "21.4",
+            "ast": "4.1",
+            "trb": "3.2"
+        },
+        {
+            "team": "PHI",
+            "name": "Montrezl Harrell",
+            "age": 28,
+            "years": 2,
+            "contract": 5223516,
+            "ppg": "4.9",
+            "ast": "0.7",
+            "trb": "2.7"
+        },
+        {
+            "team": "PHI",
+            "name": "Jaden Springer",
+            "age": 20,
+            "years": 3,
+            "contract": 8369803,
+            "ppg": "1.4",
+            "ast": "0.0",
+            "trb": "1.0"
+        },
+        {
+            "team": "PHI",
+            "name": "Shake Milton",
+            "age": 26,
+            "years": 1,
+            "contract": 1997718,
+            "ppg": "10.5",
+            "ast": "3.2",
+            "trb": "3.0"
+        },
+        {
+            "team": "PHI",
+            "name": "Paul Reed",
+            "age": 23,
+            "years": 1,
+            "contract": 1782621,
+            "ppg": "2.7",
+            "ast": "0.4",
+            "trb": "3.1"
+        },
+        {
+            "team": "PHI",
+            "name": "Louis King",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "PHI",
+            "name": "Julian Champagnie",
+            "age": 21,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.0",
+            "ast": "0.0",
+            "trb": "0.0"
+        },
+        {
+            "team": "SAS",
+            "name": "Charles Bassey",
+            "age": 22,
+            "years": 0,
+            "contract": 0,
+            "ppg": "4.9",
+            "ast": "1.2",
+            "trb": "5.2"
+        },
+        {
+            "team": "PHO",
+            "name": "Devin Booker",
+            "age": 26,
+            "years": 6,
+            "contract": 288820800,
+            "ppg": "27.1",
+            "ast": "5.6",
+            "trb": "4.6"
+        },
+        {
+            "team": "PHO",
+            "name": "Deandre Ayton",
+            "age": 24,
+            "years": 4,
+            "contract": 132929128,
+            "ppg": "17.5",
+            "ast": "1.9",
+            "trb": "9.4"
+        },
+        {
+            "team": "PHO",
+            "name": "Chris Paul",
+            "age": 37,
+            "years": 3,
+            "contract": 89200000,
+            "ppg": "12.9",
+            "ast": "8.7",
+            "trb": "4.3"
+        },
+        {
+            "team": "PHO",
+            "name": "Mikal Bridges",
+            "age": 26,
+            "years": 4,
+            "contract": 90000000,
+            "ppg": "15.6",
+            "ast": "3.1",
+            "trb": "4.5"
+        },
+        {
+            "team": "PHO",
+            "name": "Jae Crowder",
+            "age": 32,
+            "years": 1,
+            "contract": 10183800,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "PHO",
+            "name": "Landry Shamet",
+            "age": 25,
+            "years": 4,
+            "contract": 42500000,
+            "ppg": "9.3",
+            "ast": "2.0",
+            "trb": "1.5"
+        },
+        {
+            "team": "PHO",
+            "name": "Dario \u0160ari\u0107",
+            "age": 28,
+            "years": 1,
+            "contract": 9240000,
+            "ppg": "3.5",
+            "ast": "1.0",
+            "trb": "2.7"
+        },
+        {
+            "team": "PHO",
+            "name": "Cameron Payne",
+            "age": 28,
+            "years": 2,
+            "contract": 12500000,
+            "ppg": "12.5",
+            "ast": "5.4",
+            "trb": "2.3"
+        },
+        {
+            "team": "PHO",
+            "name": "Cameron Johnson",
+            "age": 26,
+            "years": 1,
+            "contract": 5887899,
+            "ppg": "13.0",
+            "ast": "1.8",
+            "trb": "3.4"
+        },
+        {
+            "team": "PHO",
+            "name": "Torrey Craig",
+            "age": 32,
+            "years": 1,
+            "contract": 5121951,
+            "ppg": "8.3",
+            "ast": "1.5",
+            "trb": "5.4"
+        },
+        {
+            "team": "PHO",
+            "name": "Bismack Biyombo",
+            "age": 30,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "3.6",
+            "ast": "0.9",
+            "trb": "3.7"
+        },
+        {
+            "team": "PHO",
+            "name": "Damion Lee",
+            "age": 30,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "8.5",
+            "ast": "1.2",
+            "trb": "3.3"
+        },
+        {
+            "team": "PHO",
+            "name": "Josh Okogie",
+            "age": 24,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "4.4",
+            "ast": "1.1",
+            "trb": "2.9"
+        },
+        {
+            "team": "PHO",
+            "name": "Jock Landale",
+            "age": 27,
+            "years": 1,
+            "contract": 1563518,
+            "ppg": "6.5",
+            "ast": "0.8",
+            "trb": "3.9"
+        },
+        {
+            "team": "PHO",
+            "name": "Ish Wainright",
+            "age": 28,
+            "years": 0,
+            "contract": 0,
+            "ppg": "3.7",
+            "ast": "1.0",
+            "trb": "2.2"
+        },
+        {
+            "team": "PHO",
+            "name": "Duane Washington Jr.",
+            "age": 22,
+            "years": 0,
+            "contract": 0,
+            "ppg": "7.1",
+            "ast": "1.5",
+            "trb": "1.1"
+        },
+        {
+            "team": "POR",
+            "name": "Damian Lillard",
+            "age": 32,
+            "years": 5,
+            "contract": 258694291,
+            "ppg": "27.4",
+            "ast": "7.2",
+            "trb": "4.0"
+        },
+        {
+            "team": "POR",
+            "name": "Anfernee Simons",
+            "age": 23,
+            "years": 4,
+            "contract": 100000000,
+            "ppg": "22.6",
+            "ast": "4.0",
+            "trb": "3.0"
+        },
+        {
+            "team": "POR",
+            "name": "Jerami Grant",
+            "age": 28,
+            "years": 1,
+            "contract": 20955000,
+            "ppg": "22.4",
+            "ast": "2.7",
+            "trb": "4.3"
+        },
+        {
+            "team": "POR",
+            "name": "Jusuf Nurki\u0107",
+            "age": 28,
+            "years": 4,
+            "contract": 70000000,
+            "ppg": "14.4",
+            "ast": "2.9",
+            "trb": "9.6"
+        },
+        {
+            "team": "POR",
+            "name": "Josh Hart",
+            "age": 27,
+            "years": 2,
+            "contract": 25920000,
+            "ppg": "9.8",
+            "ast": "4.1",
+            "trb": "8.5"
+        },
+        {
+            "team": "POR",
+            "name": "Gary Payton II",
+            "age": 30,
+            "years": 3,
+            "contract": 26145000,
+            "ppg": "7.0",
+            "ast": "4.0",
+            "trb": "2.0"
+        },
+        {
+            "team": "POR",
+            "name": "Shaedon Sharpe",
+            "age": 19,
+            "years": 4,
+            "contract": 27340903,
+            "ppg": "7.7",
+            "ast": "0.4",
+            "trb": "2.5"
+        },
+        {
+            "team": "POR",
+            "name": "Nassir Little",
+            "age": 22,
+            "years": 5,
+            "contract": 32171548,
+            "ppg": "5.5",
+            "ast": "0.9",
+            "trb": "2.4"
+        },
+        {
+            "team": "POR",
+            "name": "Justise Winslow",
+            "age": 26,
+            "years": 1,
+            "contract": 4097561,
+            "ppg": "6.8",
+            "ast": "3.4",
+            "trb": "5.0"
+        },
+        {
+            "team": "POR",
+            "name": "Keon Johnson",
+            "age": 20,
+            "years": 3,
+            "contract": 9964051,
+            "ppg": "6.1",
+            "ast": "1.3",
+            "trb": "1.9"
+        },
+        {
+            "team": "POR",
+            "name": "Drew Eubanks",
+            "age": 25,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "6.0",
+            "ast": "1.0",
+            "trb": "4.4"
+        },
+        {
+            "team": "POR",
+            "name": "Greg Brown III",
+            "age": 21,
+            "years": 2,
+            "contract": 3399614,
+            "ppg": "2.2",
+            "ast": "0.0",
+            "trb": "1.1"
+        },
+        {
+            "team": "POR",
+            "name": "Trendon Watford",
+            "age": 22,
+            "years": 3,
+            "contract": 5388212,
+            "ppg": "5.3",
+            "ast": "1.7",
+            "trb": "3.9"
+        },
+        {
+            "team": "POR",
+            "name": "Jabari Walker",
+            "age": 20,
+            "years": 3,
+            "contract": 4757344,
+            "ppg": "1.9",
+            "ast": "0.6",
+            "trb": "2.2"
+        },
+        {
+            "team": "POR",
+            "name": "John Butler",
+            "age": 20,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.5",
+            "ast": "0.3",
+            "trb": "0.5"
+        },
+        {
+            "team": "POR",
+            "name": "Ibou Badji",
+            "age": 20,
+            "years": 0,
+            "contract": 0,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "POR",
+            "name": "Eric Bledsoe",
+            "age": 33,
+            "years": 3,
+            "contract": 3900000,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "POR",
+            "name": "Didi Louzada",
+            "age": 23,
+            "years": 6,
+            "contract": 1608192,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "SAC",
+            "name": "De'Aaron Fox",
+            "age": 25,
+            "years": 4,
+            "contract": 134896800,
+            "ppg": "23.4",
+            "ast": "5.9",
+            "trb": "4.7"
+        },
+        {
+            "team": "SAC",
+            "name": "Domantas Sabonis",
+            "age": 26,
+            "years": 2,
+            "contract": 37900000,
+            "ppg": "18.6",
+            "ast": "6.6",
+            "trb": "12.4"
+        },
+        {
+            "team": "SAC",
+            "name": "Harrison Barnes",
+            "age": 30,
+            "years": 1,
+            "contract": 18352273,
+            "ppg": "13.6",
+            "ast": "1.8",
+            "trb": "5.3"
+        },
+        {
+            "team": "SAC",
+            "name": "Kevin Huerter",
+            "age": 24,
+            "years": 4,
+            "contract": 65000000,
+            "ppg": "15.6",
+            "ast": "2.9",
+            "trb": "3.2"
+        },
+        {
+            "team": "SAC",
+            "name": "Richaun Holmes",
+            "age": 29,
+            "years": 3,
+            "contract": 36138060,
+            "ppg": "3.2",
+            "ast": "0.1",
+            "trb": "2.1"
+        },
+        {
+            "team": "SAC",
+            "name": "Malik Monk",
+            "age": 24,
+            "years": 2,
+            "contract": 19418049,
+            "ppg": "14.6",
+            "ast": "3.9",
+            "trb": "2.3"
+        },
+        {
+            "team": "SAC",
+            "name": "Keegan Murray",
+            "age": 22,
+            "years": 4,
+            "contract": 36371093,
+            "ppg": "11.5",
+            "ast": "0.8",
+            "trb": "3.7"
+        },
+        {
+            "team": "SAC",
+            "name": "Davion Mitchell",
+            "age": 24,
+            "years": 3,
+            "contract": 16348317,
+            "ppg": "6.1",
+            "ast": "2.6",
+            "trb": "1.5"
+        },
+        {
+            "team": "SAC",
+            "name": "Terence Davis",
+            "age": 25,
+            "years": 1,
+            "contract": 4000000,
+            "ppg": "6.7",
+            "ast": "1.3",
+            "trb": "2.5"
+        },
+        {
+            "team": "SAC",
+            "name": "Alex Len",
+            "age": 29,
+            "years": 1,
+            "contract": 3918600,
+            "ppg": "1.3",
+            "ast": "0.3",
+            "trb": "1.3"
+        },
+        {
+            "team": "SAC",
+            "name": "Trey Lyles",
+            "age": 27,
+            "years": 1,
+            "contract": 2625000,
+            "ppg": "6.1",
+            "ast": "0.9",
+            "trb": "3.4"
+        },
+        {
+            "team": "SAC",
+            "name": "Chimezie Metu",
+            "age": 25,
+            "years": 1,
+            "contract": 1910860,
+            "ppg": "4.9",
+            "ast": "0.6",
+            "trb": "3.0"
+        },
+        {
+            "team": "SAC",
+            "name": "KZ Okpala",
+            "age": 23,
+            "years": 2,
+            "contract": 3968718,
+            "ppg": "1.5",
+            "ast": "0.4",
+            "trb": "1.2"
+        },
+        {
+            "team": "SAC",
+            "name": "Matthew Dellavedova",
+            "age": 32,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "1.2",
+            "ast": "1.3",
+            "trb": "0.3"
+        },
+        {
+            "team": "SAC",
+            "name": "Chima Moneke",
+            "age": 27,
+            "years": 2,
+            "contract": 2737645,
+            "ppg": "1.0",
+            "ast": "0.5",
+            "trb": "1.0"
+        },
+        {
+            "team": "SAC",
+            "name": "Keon Ellis",
+            "age": 22,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.0",
+            "ast": "0.3",
+            "trb": "0.7"
+        },
+        {
+            "team": "SAC",
+            "name": "Neemias Queta",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "3.0",
+            "ast": "0.3",
+            "trb": "2.3"
+        },
+        {
+            "team": "SAS",
+            "name": "Doug McDermott",
+            "age": 30,
+            "years": 2,
+            "contract": 27500000,
+            "ppg": "10.1",
+            "ast": "1.5",
+            "trb": "2.3"
+        },
+        {
+            "team": "SAS",
+            "name": "Josh Richardson",
+            "age": 29,
+            "years": 1,
+            "contract": 12196094,
+            "ppg": "10.3",
+            "ast": "3.0",
+            "trb": "2.5"
+        },
+        {
+            "team": "SAS",
+            "name": "Jakob Poeltl",
+            "age": 27,
+            "years": 1,
+            "contract": 9398148,
+            "ppg": "12.1",
+            "ast": "2.9",
+            "trb": "9.3"
+        },
+        {
+            "team": "SAS",
+            "name": "Zach Collins",
+            "age": 25,
+            "years": 2,
+            "contract": 15050000,
+            "ppg": "9.0",
+            "ast": "2.4",
+            "trb": "5.6"
+        },
+        {
+            "team": "SAS",
+            "name": "Romeo Langford",
+            "age": 23,
+            "years": 1,
+            "contract": 5634257,
+            "ppg": "6.5",
+            "ast": "1.0",
+            "trb": "2.6"
+        },
+        {
+            "team": "SAS",
+            "name": "Jeremy Sochan",
+            "age": 19,
+            "years": 4,
+            "contract": 23046751,
+            "ppg": "8.9",
+            "ast": "2.4",
+            "trb": "4.7"
+        },
+        {
+            "team": "SAS",
+            "name": "Devin Vassell",
+            "age": 22,
+            "years": 2,
+            "contract": 10324899,
+            "ppg": "19.4",
+            "ast": "3.6",
+            "trb": "4.0"
+        },
+        {
+            "team": "SAS",
+            "name": "Keldon Johnson",
+            "age": 23,
+            "years": 5,
+            "contract": 77873025,
+            "ppg": "21.5",
+            "ast": "2.8",
+            "trb": "4.9"
+        },
+        {
+            "team": "SAS",
+            "name": "Malaki Branham",
+            "age": 19,
+            "years": 4,
+            "contract": 14177433,
+            "ppg": "6.8",
+            "ast": "1.6",
+            "trb": "1.5"
+        },
+        {
+            "team": "SAS",
+            "name": "Blake Wesley",
+            "age": 19,
+            "years": 4,
+            "contract": 12240728,
+            "ppg": "8.0",
+            "ast": "2.0",
+            "trb": "1.0"
+        },
+        {
+            "team": "SAS",
+            "name": "Isaiah Roby",
+            "age": 24,
+            "years": 1,
+            "contract": 1930681,
+            "ppg": "4.0",
+            "ast": "1.1",
+            "trb": "2.5"
+        },
+        {
+            "team": "SAS",
+            "name": "Keita Bates-Diop",
+            "age": 26,
+            "years": 1,
+            "contract": 1878720,
+            "ppg": "7.5",
+            "ast": "0.8",
+            "trb": "2.9"
+        },
+        {
+            "team": "SAS",
+            "name": "Gorgui Dieng",
+            "age": 32,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "4.1",
+            "ast": "2.0",
+            "trb": "3.2"
+        },
+        {
+            "team": "SAS",
+            "name": "Tre Jones",
+            "age": 22,
+            "years": 1,
+            "contract": 1782621,
+            "ppg": "12.7",
+            "ast": "6.5",
+            "trb": "3.6"
+        },
+        {
+            "team": "SAS",
+            "name": "Stanley Johnson",
+            "age": 26,
+            "years": 0,
+            "contract": 0,
+            "ppg": "5.7",
+            "ast": "1.8",
+            "trb": "2.4"
+        },
+        {
+            "team": "SAS",
+            "name": "Dominick Barlow",
+            "age": 19,
+            "years": 0,
+            "contract": 0,
+            "ppg": "2.5",
+            "ast": "0.8",
+            "trb": "0.8"
+        },
+        {
+            "team": "SAS",
+            "name": "Joshua Primo",
+            "age": 20,
+            "years": 2,
+            "contract": 8485920,
+            "ppg": "7.0",
+            "ast": "4.5",
+            "trb": "3.3"
+        },
+        {
+            "team": "SAS",
+            "name": "Joe Wieskamp",
+            "age": 23,
+            "years": 1,
+            "contract": 2175000,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "SAS",
+            "name": "Alize Johnson",
+            "age": 26,
+            "years": 1,
+            "contract": 1392896,
+            "ppg": "1.8",
+            "ast": "0.3",
+            "trb": "2.5"
+        },
+        {
+            "team": "TOR",
+            "name": "Pascal Siakam",
+            "age": 28,
+            "years": 2,
+            "contract": 73342080,
+            "ppg": "26.5",
+            "ast": "6.7",
+            "trb": "8.3"
+        },
+        {
+            "team": "TOR",
+            "name": "Fred VanVleet",
+            "age": 28,
+            "years": 2,
+            "contract": 44074074,
+            "ppg": "18.1",
+            "ast": "6.0",
+            "trb": "3.8"
+        },
+        {
+            "team": "TOR",
+            "name": "Gary Trent Jr.",
+            "age": 23,
+            "years": 2,
+            "contract": 36290000,
+            "ppg": "17.9",
+            "ast": "1.5",
+            "trb": "2.2"
+        },
+        {
+            "team": "TOR",
+            "name": "OG Anunoby",
+            "age": 25,
+            "years": 3,
+            "contract": 55928571,
+            "ppg": "18.6",
+            "ast": "2.2",
+            "trb": "5.8"
+        },
+        {
+            "team": "TOR",
+            "name": "Chris Boucher",
+            "age": 29,
+            "years": 3,
+            "contract": 35250000,
+            "ppg": "10.0",
+            "ast": "0.5",
+            "trb": "5.8"
+        },
+        {
+            "team": "TOR",
+            "name": "Thaddeus Young",
+            "age": 34,
+            "years": 2,
+            "contract": 16000000,
+            "ppg": "5.0",
+            "ast": "1.7",
+            "trb": "3.6"
+        },
+        {
+            "team": "TOR",
+            "name": "Scottie Barnes",
+            "age": 21,
+            "years": 3,
+            "contract": 25784260,
+            "ppg": "14.8",
+            "ast": "4.7",
+            "trb": "7.0"
+        },
+        {
+            "team": "TOR",
+            "name": "Khem Birch",
+            "age": 30,
+            "years": 2,
+            "contract": 13652500,
+            "ppg": "2.2",
+            "ast": "0.4",
+            "trb": "1.3"
+        },
+        {
+            "team": "TOR",
+            "name": "Otto Porter Jr.",
+            "age": 29,
+            "years": 2,
+            "contract": 12300000,
+            "ppg": "5.5",
+            "ast": "1.0",
+            "trb": "2.4"
+        },
+        {
+            "team": "TOR",
+            "name": "Precious Achiuwa",
+            "age": 23,
+            "years": 2,
+            "contract": 7219687,
+            "ppg": "8.3",
+            "ast": "1.4",
+            "trb": "6.5"
+        },
+        {
+            "team": "TOR",
+            "name": "Malachi Flynn",
+            "age": 24,
+            "years": 2,
+            "contract": 6018745,
+            "ppg": "6.4",
+            "ast": "1.4",
+            "trb": "1.7"
+        },
+        {
+            "team": "TOR",
+            "name": "Juancho Hernang\u00f3mez",
+            "age": 27,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "4.0",
+            "ast": "0.7",
+            "trb": "3.7"
+        },
+        {
+            "team": "TOR",
+            "name": "Justin Champagnie",
+            "age": 21,
+            "years": 2,
+            "contract": 3565862,
+            "ppg": "2.0",
+            "ast": "0.3",
+            "trb": "1.3"
+        },
+        {
+            "team": "TOR",
+            "name": "Dalano Banton",
+            "age": 23,
+            "years": 1,
+            "contract": 1563518,
+            "ppg": "5.2",
+            "ast": "1.2",
+            "trb": "1.5"
+        },
+        {
+            "team": "TOR",
+            "name": "Christian Koloko",
+            "age": 22,
+            "years": 3,
+            "contract": 5239563,
+            "ppg": "3.7",
+            "ast": "0.5",
+            "trb": "3.3"
+        },
+        {
+            "team": "TOR",
+            "name": "Jeff Dowtin",
+            "age": 25,
+            "years": 0,
+            "contract": 0,
+            "ppg": "2.5",
+            "ast": "1.0",
+            "trb": "1.1"
+        },
+        {
+            "team": "TOR",
+            "name": "Ron Harper Jr.",
+            "age": 22,
+            "years": 0,
+            "contract": 0,
+            "ppg": "3.0",
+            "ast": "0.0",
+            "trb": "0.5"
+        },
+        {
+            "team": "TOR",
+            "name": "D.J. Wilson",
+            "age": 26,
+            "years": 1,
+            "contract": 250000,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "UTA",
+            "name": "Saben Lee",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "3.0",
+            "ast": "1.0",
+            "trb": "0.0"
+        },
+        {
+            "team": "UTA",
+            "name": "Mike Conley",
+            "age": 35,
+            "years": 2,
+            "contract": 47040000,
+            "ppg": "9.9",
+            "ast": "7.5",
+            "trb": "2.3"
+        },
+        {
+            "team": "UTA",
+            "name": "Collin Sexton",
+            "age": 23,
+            "years": 4,
+            "contract": 70950000,
+            "ppg": "14.1",
+            "ast": "2.9",
+            "trb": "2.2"
+        },
+        {
+            "team": "UTA",
+            "name": "Lauri Markkanen",
+            "age": 25,
+            "years": 3,
+            "contract": 51779997,
+            "ppg": "23.8",
+            "ast": "1.9",
+            "trb": "8.5"
+        },
+        {
+            "team": "UTA",
+            "name": "Malik Beasley",
+            "age": 26,
+            "years": 2,
+            "contract": 32082141,
+            "ppg": "14.2",
+            "ast": "1.5",
+            "trb": "3.7"
+        },
+        {
+            "team": "UTA",
+            "name": "Jordan Clarkson",
+            "age": 30,
+            "years": 2,
+            "contract": 27600000,
+            "ppg": "20.5",
+            "ast": "4.5",
+            "trb": "3.9"
+        },
+        {
+            "team": "UTA",
+            "name": "Kelly Olynyk",
+            "age": 31,
+            "years": 2,
+            "contract": 25000000,
+            "ppg": "12.6",
+            "ast": "3.2",
+            "trb": "4.9"
+        },
+        {
+            "team": "UTA",
+            "name": "Talen Horton-Tucker",
+            "age": 22,
+            "years": 2,
+            "contract": 21280000,
+            "ppg": "6.7",
+            "ast": "2.3",
+            "trb": "2.5"
+        },
+        {
+            "team": "UTA",
+            "name": "Rudy Gay",
+            "age": 36,
+            "years": 2,
+            "contract": 12663500,
+            "ppg": "4.6",
+            "ast": "0.7",
+            "trb": "3.0"
+        },
+        {
+            "team": "UTA",
+            "name": "Nickeil Alexander-Walker",
+            "age": 24,
+            "years": 1,
+            "contract": 5009633,
+            "ppg": "6.8",
+            "ast": "2.3",
+            "trb": "1.6"
+        },
+        {
+            "team": "UTA",
+            "name": "Jarred Vanderbilt",
+            "age": 23,
+            "years": 2,
+            "contract": 9072000,
+            "ppg": "8.2",
+            "ast": "2.8",
+            "trb": "7.9"
+        },
+        {
+            "team": "UTA",
+            "name": "Ochai Agbaji",
+            "age": 22,
+            "years": 4,
+            "contract": 18726365,
+            "ppg": "2.7",
+            "ast": "0.2",
+            "trb": "1.1"
+        },
+        {
+            "team": "UTA",
+            "name": "Simone Fontecchio",
+            "age": 27,
+            "years": 2,
+            "contract": 6250000,
+            "ppg": "3.9",
+            "ast": "0.4",
+            "trb": "1.1"
+        },
+        {
+            "team": "UTA",
+            "name": "Walker Kessler",
+            "age": 21,
+            "years": 4,
+            "contract": 13372418,
+            "ppg": "6.9",
+            "ast": "0.6",
+            "trb": "6.5"
+        },
+        {
+            "team": "UTA",
+            "name": "Leandro Bolmaro",
+            "age": 22,
+            "years": 3,
+            "contract": 9452075,
+            "ppg": "0.6",
+            "ast": "0.6",
+            "trb": "0.4"
+        },
+        {
+            "team": "UTA",
+            "name": "Udoka Azubuike",
+            "age": 23,
+            "years": 2,
+            "contract": 6098364,
+            "ppg": "1.7",
+            "ast": "0.3",
+            "trb": "1.8"
+        },
+        {
+            "team": "UTA",
+            "name": "Johnny Juzang",
+            "age": 21,
+            "years": 0,
+            "contract": 0,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "UTA",
+            "name": "Micah Potter",
+            "age": 24,
+            "years": 0,
+            "contract": 0,
+            "ppg": "1.3",
+            "ast": "0.7",
+            "trb": "1.0"
+        },
+        {
+            "team": "UTA",
+            "name": "Jared Butler",
+            "age": 22,
+            "years": 1,
+            "contract": 1563518,
+            "ppg": 0,
+            "ast": 0,
+            "trb": 0
+        },
+        {
+            "team": "WAS",
+            "name": "Bradley Beal",
+            "age": 29,
+            "years": 5,
+            "contract": 251019650,
+            "ppg": "23.5",
+            "ast": "5.2",
+            "trb": "3.6"
+        },
+        {
+            "team": "WAS",
+            "name": "Kristaps Porzi\u0146\u0123is",
+            "age": 27,
+            "years": 2,
+            "contract": 69849600,
+            "ppg": "22.2",
+            "ast": "2.4",
+            "trb": "8.9"
+        },
+        {
+            "team": "WAS",
+            "name": "Will Barton",
+            "age": 31,
+            "years": 1,
+            "contract": 14375000,
+            "ppg": "7.8",
+            "ast": "2.6",
+            "trb": "2.8"
+        },
+        {
+            "team": "WAS",
+            "name": "Kyle Kuzma",
+            "age": 27,
+            "years": 2,
+            "contract": 26000000,
+            "ppg": "21.4",
+            "ast": "3.8",
+            "trb": "7.6"
+        },
+        {
+            "team": "WAS",
+            "name": "Monte Morris",
+            "age": 27,
+            "years": 2,
+            "contract": 18925926,
+            "ppg": "9.8",
+            "ast": "5.3",
+            "trb": "3.3"
+        },
+        {
+            "team": "WAS",
+            "name": "Delon Wright",
+            "age": 30,
+            "years": 2,
+            "contract": 16000000,
+            "ppg": "5.3",
+            "ast": "3.4",
+            "trb": "2.2"
+        },
+        {
+            "team": "WAS",
+            "name": "Rui Hachimura",
+            "age": 24,
+            "years": 1,
+            "contract": 6263188,
+            "ppg": "13.6",
+            "ast": "1.2",
+            "trb": "4.8"
+        },
+        {
+            "team": "WAS",
+            "name": "Deni Avdija",
+            "age": 21,
+            "years": 2,
+            "contract": 11179348,
+            "ppg": "8.3",
+            "ast": "2.7",
+            "trb": "5.7"
+        },
+        {
+            "team": "WAS",
+            "name": "Johnny Davis",
+            "age": 20,
+            "years": 4,
+            "contract": 21898509,
+            "ppg": "1.1",
+            "ast": "0.2",
+            "trb": "0.7"
+        },
+        {
+            "team": "WAS",
+            "name": "Corey Kispert",
+            "age": 23,
+            "years": 3,
+            "contract": 12980767,
+            "ppg": "9.5",
+            "ast": "1.5",
+            "trb": "2.7"
+        },
+        {
+            "team": "WAS",
+            "name": "Daniel Gafford",
+            "age": 24,
+            "years": 4,
+            "contract": 42113161,
+            "ppg": "7.3",
+            "ast": "0.6",
+            "trb": "4.6"
+        },
+        {
+            "team": "WAS",
+            "name": "Taj Gibson",
+            "age": 37,
+            "years": 1,
+            "contract": 1836090,
+            "ppg": "3.5",
+            "ast": "0.5",
+            "trb": "1.6"
+        },
+        {
+            "team": "WAS",
+            "name": "Anthony Gill",
+            "age": 30,
+            "years": 2,
+            "contract": 3833328,
+            "ppg": "2.7",
+            "ast": "0.5",
+            "trb": "1.4"
+        },
+        {
+            "team": "WAS",
+            "name": "Vernon Carey Jr.",
+            "age": 21,
+            "years": 2,
+            "contract": 3713302,
+            "ppg": "0.4",
+            "ast": "0.2",
+            "trb": "0.8"
+        },
+        {
+            "team": "WAS",
+            "name": "Isaiah Todd",
+            "age": 21,
+            "years": 3,
+            "contract": 5399694,
+            "ppg": "0.5",
+            "ast": "0.0",
+            "trb": "0.0"
+        },
+        {
+            "team": "WAS",
+            "name": "Jordan Goodwin",
+            "age": 24,
+            "years": 0,
+            "contract": 0,
+            "ppg": "7.1",
+            "ast": "2.8",
+            "trb": "3.9"
+        },
+        {
+            "team": "WAS",
+            "name": "Devon Dotson",
+            "age": 23,
+            "years": 0,
+            "contract": 0,
+            "ppg": "0.5",
+            "ast": "1.3",
+            "trb": "1.7"
+        }
+    ]
+}
