@@ -21,7 +21,7 @@ function createStatsDiv(playerInTeam){
 
     const img = document.createElement('img');
     img.className = 'logos';
-    img.src = '/images/' + playerInTeam.team + '.svg';
+    img.src = 'images/' + playerInTeam.team + '.svg';
     cardDiv.appendChild(img);
 
     const childDiv1 = document.createElement('div');
