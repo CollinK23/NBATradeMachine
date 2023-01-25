@@ -1,140 +1,154 @@
-import json_data from './players.json' assert {type: 'json'};
+var xhr = new XMLHttpRequest();
+xhr.open('GET', '/players.json', true);
+xhr.responseType = 'json';
+xhr.onload = function() {
+  if (xhr.status === 200) {
+    var json_data = xhr.response;
+    console.assert(typeof json_data === 'object', "json_data is not an object");
 
-var players = [];
+    var players = [];
 
-for(var i in json_data)
-    players.push([i, json_data [i]]);
+    for(var i in json_data)
+        players.push([i, json_data [i]]);
 
-const teams = ["ATL", "BOS", "BRK", "CHI", "CHO", "CLE", "DAL", 
-         "DEN", "DET", "GSW", "HOU", "IND", "LAC", "LAL",
-         "MEM", "MIA", "MIL", "MIN", "NOP", "NYK", "OKC",
-         "ORL", "PHI", "PHO", "POR", "SAC", "SAS", "TOR",
-         "UTA", "WAS"];
+    const teams = ["ATL", "BOS", "BRK", "CHI", "CHO", "CLE", "DAL", 
+            "DEN", "DET", "GSW", "HOU", "IND", "LAC", "LAL",
+            "MEM", "MIA", "MIL", "MIN", "NOP", "NYK", "OKC",
+            "ORL", "PHI", "PHO", "POR", "SAC", "SAS", "TOR",
+            "UTA", "WAS"];
 
 
-function createStatsDiv(playerInTeam){
-    const cardDiv = document.createElement('div');
-    cardDiv.className = 'card';
+    function createStatsDiv(playerInTeam){
+        const cardDiv = document.createElement('div');
+        cardDiv.className = 'card';
 
-    const parentDiv = document.createElement('div');
-    parentDiv.className = 'player';
+        const parentDiv = document.createElement('div');
+        parentDiv.className = 'player';
 
-    const img = document.createElement('img');
-    img.className = 'logos';
-    img.src = 'images/' + playerInTeam.team + '.svg';
-    cardDiv.appendChild(img);
+        const img = document.createElement('img');
+        img.className = 'logos';
+        img.src = 'images/' + playerInTeam.team + '.svg';
+        cardDiv.appendChild(img);
 
-    const childDiv1 = document.createElement('div');
-    childDiv1.className = 'name';
-    childDiv1.innerHTML = playerInTeam.name;
-    parentDiv.appendChild(childDiv1);
+        const childDiv1 = document.createElement('div');
+        childDiv1.className = 'name';
+        childDiv1.innerHTML = playerInTeam.name;
+        parentDiv.appendChild(childDiv1);
 
-    const childDiv2 = document.createElement('div');
-    childDiv2.className = 'contract';
-    childDiv2.innerHTML = "$" + Math.round(playerInTeam.contract / 1000000) + "M" + " / " + playerInTeam.years + "Yr";
-    parentDiv.appendChild(childDiv2);
+        const childDiv2 = document.createElement('div');
+        childDiv2.className = 'contract';
+        childDiv2.innerHTML = "$" + Math.round(playerInTeam.contract / 1000000) + "M" + " / " + playerInTeam.years + "Yr";
+        parentDiv.appendChild(childDiv2);
 
-    const childDiv3 = document.createElement('div');
-    childDiv3.className = 'age';
-    childDiv3.innerText = "Age: " + playerInTeam.age;
-    parentDiv.appendChild(childDiv3);
+        const childDiv3 = document.createElement('div');
+        childDiv3.className = 'age';
+        childDiv3.innerText = "Age: " + playerInTeam.age;
+        parentDiv.appendChild(childDiv3);
 
-    const childDiv4 = document.createElement('div');
-    childDiv4.className = 'ppg';
-    childDiv4.innerText = "PPG: " + playerInTeam.ppg;
-    parentDiv.appendChild(childDiv4);
+        const childDiv4 = document.createElement('div');
+        childDiv4.className = 'ppg';
+        childDiv4.innerText = "PPG: " + playerInTeam.ppg;
+        parentDiv.appendChild(childDiv4);
 
-    const childDiv5 = document.createElement('div');
-    childDiv5.className = 'ast';
-    childDiv5.innerText = "AST: " + playerInTeam.ast;
-    parentDiv.appendChild(childDiv5);
+        const childDiv5 = document.createElement('div');
+        childDiv5.className = 'ast';
+        childDiv5.innerText = "AST: " + playerInTeam.ast;
+        parentDiv.appendChild(childDiv5);
 
-    const childDiv6 = document.createElement('div');
-    childDiv6.className = 'reb';
-    childDiv6.innerText = "REB: " + playerInTeam.trb;
-    parentDiv.appendChild(childDiv6);
+        const childDiv6 = document.createElement('div');
+        childDiv6.className = 'reb';
+        childDiv6.innerText = "REB: " + playerInTeam.trb;
+        parentDiv.appendChild(childDiv6);
 
-    cardDiv.appendChild(parentDiv)
+        cardDiv.appendChild(parentDiv)
 
-    return cardDiv;
-}
+        cardDiv.addEventListener("click", function(){
+            alert("You clicked the div!");
+        });
 
-function playerOptions(selector){
-    var e = document.getElementById(selector);
-    var selectedTeam = e.options[e.selectedIndex].text;
-    var selectedIndex = e.value;
-    const playerDiv = document.getElementById('roster__view');
-    const parentDiv = document.createElement('div');
-    parentDiv.className = 'team';
+        return cardDiv;
+    }
 
-    for (var i = 0; i < players[0][1].length; i++){
-        
-        let playerInTeam = players[0][1][i];
+    function playerOptions(selector){
+        var e = document.getElementById(selector);
+        var selectedTeam = e.options[e.selectedIndex].text;
+        var selectedIndex = e.value;
+        const playerDiv = document.getElementById('roster__view');
+        const parentDiv = document.createElement('div');
+        parentDiv.className = 'team';
 
-        if(playerInTeam.num > selectedIndex){
-            break;
+        for (var i = 0; i < players[0][1].length; i++){
+            
+            var playerInTeam = players[0][1][i];
+
+            if(playerInTeam.num > selectedIndex){
+                break;
+            }
+
+            if (playerInTeam.team == selectedTeam){
+                const childDiv = createStatsDiv(playerInTeam);
+
+                parentDiv.appendChild(childDiv);
+            }
+        }
+        playerDiv.appendChild(parentDiv);
+    }
+
+    function teamOptions1(){
+        var select = document.getElementById('selector1');
+
+        for (var i = 0; i < teams.length; i++){
+            var opt = document.createElement('option');
+            opt.value = i;
+            opt.innerHTML = teams[i];
+            select.appendChild(opt);
         }
 
-        if (playerInTeam.team == selectedTeam){
-            const childDiv = createStatsDiv(playerInTeam);
+    }
 
-            parentDiv.appendChild(childDiv);
+    function teamOptions2(){
+        var select2 = document.getElementById('selector2');
+
+        for (var i = 0; i < teams.length; i++){
+            var opt = document.createElement('option');
+            opt.value = i;
+            opt.innerHTML = teams[i];
+            select2.appendChild(opt);
         }
     }
-    playerDiv.appendChild(parentDiv);
-}
 
-function teamOptions1(){
-    var select = document.getElementById('selector1');
-
-    for (var i = 0; i < teams.length; i++){
-        var opt = document.createElement('option');
-        opt.value = i;
-        opt.innerHTML = teams[i];
-        select.appendChild(opt);
+    function updateOptions1(){
+        console.log("hello");
     }
 
-}
+    function refreshPlayers(selector){
+        const updateTeam = document.getElementById(selector);
 
-function teamOptions2(){
-    var select2 = document.getElementById('selector2');
-
-    for (var i = 0; i < teams.length; i++){
-        var opt = document.createElement('option');
-        opt.value = i;
-        opt.innerHTML = teams[i];
-        select2.appendChild(opt);
+        updateTeam.onchange = function updateTeam1(){
+            const divElements = document.querySelectorAll('.team');
+            divElements.forEach(div => div.remove());
+            playerOptions('selector1');
+            playerOptions('selector2');
+        }
     }
-}
 
-function updateOptions1(){
-    console.log("hello");
-}
+    
+    teamOptions1();
 
-function refreshPlayers(selector){
-    const updateTeam = document.getElementById(selector);
+    teamOptions2();
 
-    updateTeam.onchange = function updateTeam1(){
-        const divElements = document.querySelectorAll('.team');
-        divElements.forEach(div => div.remove());
-        playerOptions('selector1');
-        playerOptions('selector2');
-    }
-}
+    playerOptions('selector1');
+    playerOptions('selector2');
 
-  
-teamOptions1();
+    refreshPlayers('selector1');
+    refreshPlayers('selector2');
 
-teamOptions2();
+    // const teamOneContracts = document.getElementById("team_1_contracts");
+    // teamOneContracts.append("Contract Totals: " + "$" + 0);
 
-playerOptions('selector1');
-playerOptions('selector2');
+    // const teamTwoContracts = document.getElementById("team_2_contracts");
+    // teamTwoContracts.append("Contract Totals: " + "$" + 0);
+  }
+};
+xhr.send();
 
-refreshPlayers('selector1');
-refreshPlayers('selector2');
-
-// const teamOneContracts = document.getElementById("team_1_contracts");
-// teamOneContracts.append("Contract Totals: " + "$" + 0);
-
-// const teamTwoContracts = document.getElementById("team_2_contracts");
-// teamTwoContracts.append("Contract Totals: " + "$" + 0);
