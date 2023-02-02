@@ -1,31 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Trade Simulator</title>
     <link rel="stylesheet" href="styles.css" width="100%" height="40%" />
     <script type="module" src="script.js" defer></script>
-    
-</head>
-<body>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500&family=Cormorant+Garamond:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
     <section id="banner">
-        <div id="main__content">
-            <h1>NBA Trade Simulator</h1>
-            <div class="btns">
-                <a type="button" href="/tradeScreen.html" class="switch__screen__btn">Attempt This Trade</a>
-            </div>
-            <div class="team__select" id="team__select">
-                <label for="select__team1">Select Team 1:</label>
-                <label for="select__team2">Select Team 2:</label>
-                <select onchange="updateOptions1();" label="select__team1" title="Team 1" id="selector1" ></select>
-                <select onchange="updateOptions1();" label="select__team2" title="Team 2" id="selector2" onchange="updateOptions1()"></select>
-            </div>
-            <div class="roster__view" id="roster__view">
-            </div>
+      <div id="main__content">
+        <div class="title">
+          <h1>NBA Trade Simulator</h1>
         </div>
-        <div id="background__shape"></div>
+        <div class="roster__view" id="trade__view">
+          <div id="trade__side__1"></div>
+          <div id="trade__side__2"></div>
+          <div id="contracts__1" class="trade__contracts">
+            Contract Totals: $<span id="contract__var1">0</span>M<br />Cap
+            Cleared: $<span id="net__gain1">0</span>M
+          </div>
+          <div id="contracts__2" class="trade__contracts">
+            Contract Totals: $<span id="contract__var2">0</span>M<br />Cap
+            Cleared: $<span id="net__gain2">0</span>M
+          </div>
+        </div>
+        <div class="btns">
+          <a type="button" href="/tradeScreen.html" class="switch__screen__btn"
+            >Attempt This Trade</a
+          >
+        </div>
+        <div class="team__select" id="team__select">
+          <label for="select__team1">Select Team 1:</label>
+          <label for="select__team2">Select Team 2:</label>
+          <select
+            onchange="updateOptions1();"
+            label="select__team1"
+            title="Team 1"
+            id="selector1"
+          ></select>
+          <select
+            onchange="updateOptions1();"
+            label="select__team2"
+            title="Team 2"
+            id="selector2"
+          ></select>
+        </div>
+        <div class="team__payroll" id="team__payroll">
+          <div id="payroll1"></div>
+          <div id="payroll2"></div>
+          <div id="cap1"></div>
+          <div id="cap2"></div>
+        </div>
+        <div class="roster__view" id="roster__view"></div>
+      </div>
+      <!-- <div id="background__shape"></div> -->
     </section>
-</body>
+  </body>
 </html>

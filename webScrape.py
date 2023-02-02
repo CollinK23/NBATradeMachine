@@ -14,17 +14,20 @@ allContracts = []
 allStats = []
 combined = {}
 
-#urlTemplate = "https://www.basketball-reference.com/contracts/{}.html"
-urlTemplate = "https://www.basketball-reference.com/teams/{}/2023.html"
+urlTemplate = "https://www.basketball-reference.com/contracts/{}.html"
+#urlTemplate = "https://www.basketball-reference.com/teams/{}/2023.html"
 
 def webScrape():
     #send Request to website
-    for team in teams:
-        url = urlTemplate.format(team)
-        data = requests.get(url)
+    # for team in teams:
+    #     url = urlTemplate.format(team)
+    #     data = requests.get(url)
 
-        with open("stats/{}.html".format(team), "w+", encoding="utf-8") as f:
-            f.write(data.text)
+    #     with open("contracts/{}.html".format(team), "w+", encoding="utf-8") as f:
+    #         f.write(data.text)
+    data = requests.get("https://www.basketball-reference.com/contracts/WAS.html")
+    with open("contracts/{}.html".format("WAS"), "w+", encoding="utf-8") as f:
+        f.write(data.text)
 
 
 
@@ -121,6 +124,7 @@ def conJSON():
                 "name": combined[key][1], 
                 "age" : int(float(combined[key][2])),
                 "years": yearsRem,
+                "firstYear": int(combined[key][3]),
                 "contract": total,
                 "ppg" : points,
                 "ast" : assists,
@@ -130,13 +134,11 @@ def conJSON():
     with open("players.json", "w") as f:
         json.dump(data, f, indent=4)
 
-#webScrape()
+webScrape()
 
-#convertToCSV()
+convertToCSV()
 
-#convertToCSV2()
-
-#convertToJSON()
+convertToCSV2()
 
 combineCSV()
 
